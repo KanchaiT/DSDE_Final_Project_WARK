@@ -14,7 +14,7 @@ HEADERS = {
 BASE_URL = "https://api.elsevier.com/content/search/scopus"
 
 #  Query
-query = "TITLE-ABS-KEY(hydration AND health)"
+query = "PUBYEAR = 2017"
 all_results = []
 
 # ดึงข้อมูลแบบแบ่งหน้า
@@ -37,10 +37,10 @@ for start in range(0, 1000, 25):
 papers = []
 for paper in all_results:
     papers.append({
-        "Title": paper.get("dc:title", "N/A"),
-        "DOI": paper.get("prism:doi", "N/A"),
-        "Authors": paper.get("dc:creator", "N/A"),
-        "Publication Year": paper.get("prism:coverDate", "N/A").split("-")[0]
+        "Title": paper.get("dc:title", "N/A"),  # ชื่อของบทความ (Title)
+        "Abstract": paper.get("dc:description", "N/A"),  # บทคัดย่อ (Abstract)
+        "Keywords": paper.get("authkeywords", "N/A"),  # คำสำคัญ (Keywords)
+        "Subject Area": paper.get("subject-areas", {}).get("subject-area", "N/A")  # หัวข้อวิจัย
     })
 
 df = pd.DataFrame(papers)
