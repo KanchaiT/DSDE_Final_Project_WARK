@@ -1,0 +1,1481 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051038111"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051038111?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051038111&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051038111&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051038111",
+        "dc:identifier": "SCOPUS_ID:85051038111",
+        "eid": "2-s2.0-85051038111",
+        "dc:title": "Emerging « entreprenance » in French primary education : The reconiguration of educational policies and their assessment",
+        "dc:creator": "Morel S.",
+        "prism:publicationName": "Formation Emploi",
+        "prism:issn": "07596340",
+        "prism:eIssn": "21070946",
+        "prism:volume": "140",
+        "prism:pageRange": "27-46",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Le SociaLab",
+                "affiliation-city": null,
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100268385",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051035605"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051035605?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051035605&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051035605&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051035605",
+        "dc:identifier": "SCOPUS_ID:85051035605",
+        "eid": "2-s2.0-85051035605",
+        "dc:title": "Entrepreneurship education in secondary education, in France : Political realities from supranational level to local level",
+        "dc:creator": "Starck S.",
+        "prism:publicationName": "Formation Emploi",
+        "prism:issn": "07596340",
+        "prism:eIssn": "21070946",
+        "prism:volume": "140",
+        "prism:pageRange": "127-145",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Laboratoire Interuniversitaire des Sciences de l’Éducation et de la Communication",
+                "affiliation-city": "Strasbourg",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100268385",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051022962"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051022962?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051022962&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051022962&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051022962",
+        "dc:identifier": "SCOPUS_ID:85051022962",
+        "eid": "2-s2.0-85051022962",
+        "dc:title": "Corporate spirit-based socialization in schools in France",
+        "dc:creator": "Tanguy L.",
+        "prism:publicationName": "Formation Emploi",
+        "prism:issn": "07596340",
+        "prism:eIssn": "21070946",
+        "prism:volume": "140",
+        "prism:pageRange": "147-164",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Centre de Recherches Sociologiques et Politiques de Paris",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100268385",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051016068"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051016068?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051016068&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051016068&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051016068",
+        "dc:identifier": "SCOPUS_ID:85051016068",
+        "eid": "2-s2.0-85051016068",
+        "dc:title": "L'entreprise, solution à la crise ?",
+        "dc:creator": "Vergnies J.",
+        "prism:publicationName": "Formation Emploi",
+        "prism:issn": "07596340",
+        "prism:eIssn": "21070946",
+        "prism:volume": "140",
+        "prism:pageRange": "1-2",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "prism:aggregationType": "Journal",
+        "subtype": "ed",
+        "subtypeDescription": "Editorial",
+        "source-id": "21100268385",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051012453"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051012453?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051012453&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051012453&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051012453",
+        "dc:identifier": "SCOPUS_ID:85051012453",
+        "eid": "2-s2.0-85051012453",
+        "dc:title": "Tensions between emancipatory entrepreneurship and procedural entrepreneurship: The case of French Sport Sciences",
+        "dc:creator": "Philippe T.",
+        "prism:publicationName": "Formation Emploi",
+        "prism:issn": "07596340",
+        "prism:eIssn": "21070946",
+        "prism:volume": "140",
+        "prism:pageRange": "47-65",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université Toulouse III - Paul Sabatier",
+                "affiliation-city": "Toulouse",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "21100268385",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051009548"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051009548?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051009548&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051009548&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051009548",
+        "dc:identifier": "SCOPUS_ID:85051009548",
+        "eid": "2-s2.0-85051009548",
+        "dc:title": "Quelques repères pour comprendre et interroger le développement de l'éducation à l'esprit d'entreprendre",
+        "dc:creator": "Pepin M.",
+        "prism:publicationName": "Formation Emploi",
+        "prism:issn": "07596340",
+        "prism:eIssn": "21070946",
+        "prism:volume": "140",
+        "prism:pageRange": "7-25",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université du Québec à Trois-Rivières",
+                "affiliation-city": "Trois-Rivieres",
+                "affiliation-country": "Canada"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "21100268385",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051002492"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85051002492?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85051002492&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85051002492&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85051002492",
+        "dc:identifier": "SCOPUS_ID:85051002492",
+        "eid": "2-s2.0-85051002492",
+        "dc:title": "Coding School and Entrepreneurship : From Business Creation to Entrepreneurial Spirit",
+        "dc:creator": "Vicente M.",
+        "prism:publicationName": "Formation Emploi",
+        "prism:issn": "07596340",
+        "prism:eIssn": "21070946",
+        "prism:volume": "140",
+        "prism:pageRange": "87-106",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université de Technologie de Compiègne",
+                "affiliation-city": "Compiegne",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100268385",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050999109"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050999109?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050999109&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050999109&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050999109",
+        "dc:identifier": "SCOPUS_ID:85050999109",
+        "eid": "2-s2.0-85050999109",
+        "dc:title": "Postface: Ce qu'éduquer à l'esprit d'entreprendre veut dire",
+        "dc:creator": "Frétigné C.",
+        "prism:publicationName": "Formation Emploi",
+        "prism:issn": "07596340",
+        "prism:eIssn": "21070946",
+        "prism:volume": "140",
+        "prism:pageRange": "165-168",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université Paris-Est Créteil Val de Marne",
+                "affiliation-city": "Creteil",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100268385",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050567071"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050567071?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050567071&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050567071&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050567071",
+        "dc:identifier": "SCOPUS_ID:85050567071",
+        "eid": "2-s2.0-85050567071",
+        "dc:title": "Firm's default — new methodological approach and preliminary evidence from Poland",
+        "dc:creator": "Berent T.",
+        "prism:publicationName": "Equilibrium. Quarterly Journal of Economics and Economic Policy",
+        "prism:issn": "1689765X",
+        "prism:eIssn": "23533293",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "753-773",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24136/eq.v12i4.39",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Szkola Glówna Handlowa w Warszawie",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101052714",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050475602"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050475602?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050475602&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050475602&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050475602",
+        "dc:identifier": "SCOPUS_ID:85050475602",
+        "eid": "2-s2.0-85050475602",
+        "dc:title": "Growth Inhibition and DNA Damage Induced by X-Phenols in Yeast: A Quantitative Structure-Activity Relationship Study",
+        "dc:creator": "Negritto M.C.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "8568-8579",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01200",
+        "citedby-count": "14",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pomona College",
+                "affiliation-city": "Claremont",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050454407"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050454407?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050454407&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050454407&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050454407",
+        "dc:identifier": "SCOPUS_ID:85050454407",
+        "eid": "2-s2.0-85050454407",
+        "dc:title": "Heterogeneous Route for the One-Pot Synthesis of N-Arylamides from Aldoximes and Aryl Halides Using the CuO/Carbon Material",
+        "dc:creator": "Islam M.M.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "8600-8609",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01028",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Kalyani",
+                "affiliation-city": "Kalyani",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050331359"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050331359?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050331359&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050331359&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050331359",
+        "dc:identifier": "SCOPUS_ID:85050331359",
+        "eid": "2-s2.0-85050331359",
+        "dc:title": "China steps out: Beijing's major power engagement with the developing world",
+        "dc:creator": "Eisenman J.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "1-438",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "The University of Texas at Austin",
+                "affiliation-city": "Austin",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "American Foreign Policy Council",
+                "affiliation-city": "Washington",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "bk",
+        "subtypeDescription": "Book",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050327824"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050327824?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050327824&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050327824&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050327824",
+        "dc:identifier": "SCOPUS_ID:85050327824",
+        "eid": "2-s2.0-85050327824",
+        "dc:title": "China's evolving power, position, and influence in the developing world",
+        "dc:creator": "Eisenman J.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "223-256",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "The University of Texas at Austin",
+                "affiliation-city": "Austin",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "American Foreign Policy Council",
+                "affiliation-city": "Washington",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050327283"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050327283?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050327283&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050327283&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050327283",
+        "dc:identifier": "SCOPUS_ID:85050327283",
+        "eid": "2-s2.0-85050327283",
+        "dc:title": "Expanding the \"Strategic Periphery\": A history of China's interaction with the developing world",
+        "dc:creator": "Mitchell D.J.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "23-44",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "U.S. Institute of Peace",
+                "affiliation-city": "Washington",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050325558"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050325558?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050325558&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050325558&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050325558",
+        "dc:identifier": "SCOPUS_ID:85050325558",
+        "eid": "2-s2.0-85050325558",
+        "dc:title": "China's strategy in Africa",
+        "dc:creator": "Eisenman J.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "134-169",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "The University of Texas at Austin",
+                "affiliation-city": "Austin",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "American Foreign Policy Council",
+                "affiliation-city": "Washington",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050325024"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050325024?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050325024&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050325024&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050325024",
+        "dc:identifier": "SCOPUS_ID:85050325024",
+        "eid": "2-s2.0-85050325024",
+        "dc:title": "China's strategy in the Middle East and the Arab world",
+        "dc:creator": "Kaiser-Cross S.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "170-192",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "2",
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050324762"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050324762?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050324762&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050324762&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050324762",
+        "dc:identifier": "SCOPUS_ID:85050324762",
+        "eid": "2-s2.0-85050324762",
+        "dc:title": "China's strategy in Central Asia",
+        "dc:creator": "Pantucci R.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "81-101",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Royal United Services Institute",
+                "affiliation-city": "London",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050324638"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050324638?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050324638&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050324638&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050324638",
+        "dc:identifier": "SCOPUS_ID:85050324638",
+        "eid": "2-s2.0-85050324638",
+        "dc:title": "Foreword",
+        "dc:creator": "Campbell K.M.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "ix-xii",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Center for a New American Security",
+                "affiliation-city": "Washington",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ed",
+        "subtypeDescription": "Editorial",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050323786"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050323786?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050323786&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050323786&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050323786",
+        "dc:identifier": "SCOPUS_ID:85050323786",
+        "eid": "2-s2.0-85050323786",
+        "dc:title": "China and the developing world: A new global dynamic",
+        "dc:creator": "Eisenman J.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "3-22",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "The University of Texas at Austin",
+                "affiliation-city": "Austin",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "American Foreign Policy Council",
+                "affiliation-city": "Washington",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050323567"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050323567?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050323567&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050323567&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050323567",
+        "dc:identifier": "SCOPUS_ID:85050323567",
+        "eid": "2-s2.0-85050323567",
+        "dc:title": "China's strategy in South Asia",
+        "dc:creator": "Smith J.M.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "102-133",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "The Heritage Foundation",
+                "affiliation-city": "Washington, D.C.",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050321336"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050321336?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050321336&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050321336&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050321336",
+        "dc:identifier": "SCOPUS_ID:85050321336",
+        "eid": "2-s2.0-85050321336",
+        "dc:title": "China's strategy in Latin America and the Caribbean",
+        "dc:creator": "Ellis R.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "193-220",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "U.S. Army War College at Carlisle Barracks",
+                "affiliation-city": "Carlisle",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050320617"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85050320617?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85050320617&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85050320617&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85050320617",
+        "dc:identifier": "SCOPUS_ID:85050320617",
+        "eid": "2-s2.0-85050320617",
+        "dc:title": "China's strategy in Southeast Asia",
+        "dc:creator": "Heginbotham E.",
+        "prism:publicationName": "China Steps Out: Beijing's Major Power Engagement with the Developing World",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781315472652, 9781138692329]"
+            }
+        ],
+        "prism:pageRange": "47-80",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4324/9781315472652",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Massachusetts Institute of Technology",
+                "affiliation-city": "Cambridge",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100869394",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049864567"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049864567?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049864567&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049864567&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049864567",
+        "dc:identifier": "SCOPUS_ID:85049864567",
+        "eid": "2-s2.0-85049864567",
+        "dc:title": "Reflection of Molecular Twist in Unoccupied Molecular Orbitals in PTCDI Derivatives: A Density Functional Study",
+        "dc:creator": "Mukherjee B.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "9181-9190",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01407",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Baba Farid Institute of Technology",
+                "affiliation-city": "Dehradun",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049774174"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049774174?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049774174&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049774174&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049774174",
+        "dc:identifier": "SCOPUS_ID:85049774174",
+        "eid": "2-s2.0-85049774174",
+        "dc:title": "Thenoyltrifluoroacetone (TTA)-Carbon Dot/Aerogel Fluorescent Sensor for Lanthanide and Actinide Ions",
+        "dc:creator": "Dolai S.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "9288-9295",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01883",
+        "citedby-count": "34",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ben-Gurion University of the Negev",
+                "affiliation-city": "Beer-Sheva",
+                "affiliation-country": "Israel"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049454947"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049454947?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049454947&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049454947&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049454947",
+        "dc:identifier": "SCOPUS_ID:85049454947",
+        "eid": "2-s2.0-85049454947",
+        "dc:title": "Oxytocin-Monolayer-Based Impedimetric Biosensor for Zinc and Copper Ions",
+        "dc:creator": "Tadi K.K.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "8770-8778",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01404",
+        "citedby-count": "22",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Hebrew University of Jerusalem",
+                "affiliation-city": "Jerusalem",
+                "affiliation-country": "Israel"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

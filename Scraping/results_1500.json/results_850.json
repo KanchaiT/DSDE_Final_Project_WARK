@@ -1,0 +1,1866 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034805618"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034805618?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034805618&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034805618&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034805618",
+        "dc:identifier": "SCOPUS_ID:85034805618",
+        "eid": "2-s2.0-85034805618",
+        "dc:title": "Optimization of wire EDM process parameters for machining of AMCs (413/B<inf>4</inf>C) using Taguchi technique",
+        "dc:creator": "Udaya Prakash J.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "231-238",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201725",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Vel Tech Rangarajan Dr.Sagunthala R&amp;D Institute of Science and Technology",
+                "affiliation-city": "Chennai",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "IJMPERDDEC201725",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034782864"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034782864?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034782864&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034782864&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034782864",
+        "dc:identifier": "SCOPUS_ID:85034782864",
+        "eid": "2-s2.0-85034782864",
+        "dc:title": "Development and study of tribological properties of biocomposite for brake pad application",
+        "dc:creator": "Manoj Kumar P.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "263-270",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201729",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Vignans Foundation for Science Technology and Research University",
+                "affiliation-city": "Guntur",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "IJMPERDDEC201729",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034762828"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034762828?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034762828&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034762828&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034762828",
+        "dc:identifier": "SCOPUS_ID:85034762828",
+        "eid": "2-s2.0-85034762828",
+        "dc:title": "Optimization and analysis of process parameters in microdrilling using response surface methodology",
+        "dc:creator": "Landge R.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "297-304",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201733",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Government College of Engineering",
+                "affiliation-city": "Jalgaon",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "IJMPERDDEC201733",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034761392"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034761392?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034761392&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034761392&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034761392",
+        "dc:identifier": "SCOPUS_ID:85034761392",
+        "eid": "2-s2.0-85034761392",
+        "dc:title": "Thermal analysis of fins with modified tips",
+        "dc:creator": "Rajagurunathan M.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "333-340",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201737",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Vel Tech Rangarajan Dr.Sagunthala R&amp;D Institute of Science and Technology",
+                "affiliation-city": "Chennai",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "IJMPERDDEC201737",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034744446"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034744446?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034744446&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034744446&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034744446",
+        "dc:identifier": "SCOPUS_ID:85034744446",
+        "eid": "2-s2.0-85034744446",
+        "dc:title": "Corrosion behaviour of Mg-Zr alloy in stimulated body fluid",
+        "dc:creator": "Judson Durai T.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "305-312",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201734",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Noorul Islam University",
+                "affiliation-city": "Kanyakumari",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "IJMPERDDEC201734",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034601135"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034601135?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034601135&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034601135&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034601135",
+        "dc:identifier": "SCOPUS_ID:85034601135",
+        "eid": "2-s2.0-85034601135",
+        "dc:title": "Acute decompensated pulmonary hypertension",
+        "dc:creator": "Savale L.",
+        "prism:publicationName": "European Respiratory Review",
+        "prism:issn": "09059180",
+        "prism:eIssn": "16000617",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "146",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1183/16000617.0092-2017",
+        "citedby-count": "54",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université Paris-Saclay",
+                "affiliation-city": "Gif-sur-Yvette",
+                "affiliation-country": "France"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Centre Chirurgical Marie Lannelongue",
+                "affiliation-city": "Le Plessis-Robinson",
+                "affiliation-country": "France"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Hopital de Bicetre",
+                "affiliation-city": "Le Kremlin-Bicetre",
+                "affiliation-country": "France"
+            }
+        ],
+        "pubmed-id": "29141964",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "170092",
+        "source-id": "18476",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034597622"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034597622?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034597622&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034597622&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034597622",
+        "dc:identifier": "SCOPUS_ID:85034597622",
+        "eid": "2-s2.0-85034597622",
+        "dc:title": "New chemistry of transition metal oxyhydrides",
+        "dc:creator": "Kobayashi Y.",
+        "prism:publicationName": "Science and Technology of Advanced Materials",
+        "prism:issn": "14686996",
+        "prism:eIssn": "18785514",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "905-918",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/14686996.2017.1394776",
+        "citedby-count": "47",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kyoto University",
+                "affiliation-city": "Kyoto",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "17918",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034590193"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034590193?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034590193&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034590193&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314040"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034590193",
+        "dc:identifier": "SCOPUS_ID:85034590193",
+        "eid": "2-s2.0-85034590193",
+        "dc:title": "Analytical transport network theory to guide the design of 3-D microstructural networks in energy materials: Part 1. Flow without reactions",
+        "dc:creator": "Cocco A.P.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "297-311",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.061",
+        "pii": "S0378775317314040",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Connecticut",
+                "affiliation-city": "Storrs",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034567048"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034567048?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034567048&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034567048&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034567048",
+        "dc:identifier": "SCOPUS_ID:85034567048",
+        "eid": "2-s2.0-85034567048",
+        "dc:title": "Current and new challenges in occupational lung diseases",
+        "dc:creator": "de Matteis S.",
+        "prism:publicationName": "European Respiratory Review",
+        "prism:issn": "09059180",
+        "prism:eIssn": "16000617",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "146",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1183/16000617.0080-2017",
+        "citedby-count": "80",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Imperial College London",
+                "affiliation-city": "London",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "pubmed-id": "29141963",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "170080",
+        "source-id": "18476",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034111878"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034111878?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034111878&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034111878&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034111878",
+        "dc:identifier": "SCOPUS_ID:85034111878",
+        "eid": "2-s2.0-85034111878",
+        "dc:title": "Numerical analysis of flow over naca0012 at fixed mach number, using computational fluid dynamics",
+        "dc:creator": "Paturu P.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "213-222",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201723",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Vel Tech Rangarajan Dr.Sagunthala R&amp;D Institute of Science and Technology",
+                "affiliation-city": "Chennai",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034104985"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034104985?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034104985&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034104985&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034104985",
+        "dc:identifier": "SCOPUS_ID:85034104985",
+        "eid": "2-s2.0-85034104985",
+        "dc:title": "Trend forecasting of twitter followers for plan international",
+        "dc:creator": "Masih J.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "87-96",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec20179",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lovely Professional University",
+                "affiliation-city": "Phagwara",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034088702"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034088702?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034088702&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034088702&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034088702",
+        "dc:identifier": "SCOPUS_ID:85034088702",
+        "eid": "2-s2.0-85034088702",
+        "dc:title": "Design and thermo structural stress analysis of axial flow gas turbine blisk",
+        "dc:creator": "Saleem M.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "195-201",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201721",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Vel Tech Rangarajan Dr.Sagunthala R&amp;D Institute of Science and Technology",
+                "affiliation-city": "Chennai",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034084160"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034084160?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034084160&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034084160&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034084160",
+        "dc:identifier": "SCOPUS_ID:85034084160",
+        "eid": "2-s2.0-85034084160",
+        "dc:title": "Study of mechanical properties of open cell AL6061 alloy foam",
+        "dc:creator": "Yadav R.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "1-9",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec20171",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Shri Madhwa Vadiraja Institute of Technology and Management",
+                "affiliation-city": "Udipi",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034083989"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034083989?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034083989&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034083989&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034083989",
+        "dc:identifier": "SCOPUS_ID:85034083989",
+        "eid": "2-s2.0-85034083989",
+        "dc:title": "An EPQ model with varying rate of deterioration and mixed demand pattern",
+        "dc:creator": "Ardak P.S.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "11-20",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec20172",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "P. R. Pote College of Engineering and Management",
+                "affiliation-city": "Amravati",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034080341"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034080341?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034080341&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034080341&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034080341",
+        "dc:identifier": "SCOPUS_ID:85034080341",
+        "eid": "2-s2.0-85034080341",
+        "dc:title": "Stress analysis of structural components of biomimetic autonomous subsea vehicles",
+        "dc:creator": "Smitha K.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "103-108",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201711",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Sree Narayana Gurukulam College of Engineering",
+                "affiliation-city": "Ernakulam",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034079575"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034079575?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034079575&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034079575&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034079575",
+        "dc:identifier": "SCOPUS_ID:85034079575",
+        "eid": "2-s2.0-85034079575",
+        "dc:title": "Effect of chromium on tensile and fatigue behaviour of copper nickel spinodal alloy",
+        "dc:creator": "Jirapure S.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "179-185",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201719",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Jawaharlal Darda Institute of Engineering &amp; Technology",
+                "affiliation-city": "Yavatmal",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034074564"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034074564?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034074564&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034074564&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034074564",
+        "dc:identifier": "SCOPUS_ID:85034074564",
+        "eid": "2-s2.0-85034074564",
+        "dc:title": "Computational investigation, on thermohydraulic characterization of liquid hydrogen and liquid nitrogen in microchannels",
+        "dc:creator": "Sharma J.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "121-134",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201713",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lovely Professional University",
+                "affiliation-city": "Phagwara",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034068915"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034068915?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034068915&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034068915&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034068915",
+        "dc:identifier": "SCOPUS_ID:85034068915",
+        "eid": "2-s2.0-85034068915",
+        "dc:title": "A parametric analysis of deformation of workpiece, in closed die forging",
+        "dc:creator": "Kaur J.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "147-153",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201715",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "National Institute of Technical Teachers Training &amp; Research",
+                "affiliation-city": "Chandigarh",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034064367"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034064367?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034064367&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034064367&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034064367",
+        "dc:identifier": "SCOPUS_ID:85034064367",
+        "eid": "2-s2.0-85034064367",
+        "dc:title": "Optimization of pid controller gains of an aircraft pitch control system using particle swarm optimization algorithm",
+        "dc:creator": "Chowdhury A.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "223-229",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201724",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Manipal Institute of Technology",
+                "affiliation-city": "Manipal",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034060253"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034060253?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034060253&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034060253&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034060253",
+        "dc:identifier": "SCOPUS_ID:85034060253",
+        "eid": "2-s2.0-85034060253",
+        "dc:title": "Experimental investigation on influence of process parameters in selective laser sintering on roundness using taguchi medthod",
+        "dc:creator": "Kumar M.N.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "45-52",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec20174",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Vidya Jyothi Institute of Technology",
+                "affiliation-city": "Hyderabad",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034059071"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034059071?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034059071&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034059071&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034059071",
+        "dc:identifier": "SCOPUS_ID:85034059071",
+        "eid": "2-s2.0-85034059071",
+        "dc:title": "Recent trends in industry in adopting crowdsourcing and problem solving for employees productivity and efficiency with special reference to it industry",
+        "dc:creator": "Menon R.B.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "171-177",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201718",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Amrita Vishwa Vidyapeetham, Mysuru Campus",
+                "affiliation-city": "Mysore",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034051698"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034051698?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034051698&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034051698&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034051698",
+        "dc:identifier": "SCOPUS_ID:85034051698",
+        "eid": "2-s2.0-85034051698",
+        "dc:title": "A review on thermodynamics analysis and waste energy utilization in cement industry",
+        "dc:creator": "Verma S.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "203-212",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201722",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Mody University of Science and Technology",
+                "affiliation-city": "Lakshmangarh",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034051580"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034051580?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034051580&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034051580&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034051580",
+        "dc:identifier": "SCOPUS_ID:85034051580",
+        "eid": "2-s2.0-85034051580",
+        "dc:title": "Demand and supply analysis on manufacturing of cement for monsoon periods using dvorak technique",
+        "dc:creator": "Rajesh K.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "187-193",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201720",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Srinivasa Ramanujan Centre",
+                "affiliation-city": "Kumbakonam",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034044717"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034044717?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034044717&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034044717&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034044717",
+        "dc:identifier": "SCOPUS_ID:85034044717",
+        "eid": "2-s2.0-85034044717",
+        "dc:title": "Corrosion fatigue of welded joints in marine and naval structures: A review",
+        "dc:creator": "Kumar J.J.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "155-162",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec201716",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "K L Deemed to be University",
+                "affiliation-city": "Vaddeswaram",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "21100814505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034039618"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85034039618?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85034039618&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85034039618&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85034039618",
+        "dc:identifier": "SCOPUS_ID:85034039618",
+        "eid": "2-s2.0-85034039618",
+        "dc:title": "A frequency based free vibration analysis of a hat stiffened plate, for identification of the damage",
+        "dc:creator": "Karanjkar A.V.",
+        "prism:publicationName": "International Journal of Mechanical and Production Engineering Research and Development",
+        "prism:issn": "22496890",
+        "prism:eIssn": "22498001",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "53-62",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24247/ijmperddec20175",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "National Institute of Technology, Durgapur",
+                "affiliation-city": "Durgapur",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100814505",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

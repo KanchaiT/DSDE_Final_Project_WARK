@@ -1,0 +1,1577 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026405540"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026405540?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026405540&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026405540&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S016943321732069X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026405540",
+        "dc:identifier": "SCOPUS_ID:85026405540",
+        "eid": "2-s2.0-85026405540",
+        "dc:title": "Surface glass transition temperature characterized by metal-atom deposition/desorption on organic films",
+        "dc:creator": "Tsujioka T.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "169-176",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.079",
+        "pii": "S016943321732069X",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Osaka Kyoiku University",
+                "affiliation-city": "Kashiwara",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026405059"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026405059?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026405059&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026405059&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717319009"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026405059",
+        "dc:identifier": "SCOPUS_ID:85026405059",
+        "eid": "2-s2.0-85026405059",
+        "dc:title": "Effects of local land-use on riparian vegetation, water quality, and the functional organization of macroinvertebrate assemblages",
+        "dc:creator": "Fierro P.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "724-734",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.197",
+        "pii": "S0048969717319009",
+        "citedby-count": "130",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universidad Austral de Chile",
+                "affiliation-city": "Valdivia",
+                "affiliation-country": "Chile"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Universidad de Concepcion",
+                "affiliation-city": "Concepcion",
+                "affiliation-country": "Chile"
+            }
+        ],
+        "pubmed-id": "28763669",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026403969"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026403969?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026403969&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026403969&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317540"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026403969",
+        "dc:identifier": "SCOPUS_ID:85026403969",
+        "eid": "2-s2.0-85026403969",
+        "dc:title": "High-spatiotemporal-resolution ship emission inventory of China based on AIS data in 2014",
+        "dc:creator": "Chen D.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "776-787",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.051",
+        "pii": "S0048969717317540",
+        "citedby-count": "123",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Beijing University of Technology",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28763674",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026402770"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026402770?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026402770&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026402770&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318612"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026402770",
+        "dc:identifier": "SCOPUS_ID:85026402770",
+        "eid": "2-s2.0-85026402770",
+        "dc:title": "Application of thermography for monitoring stomatal conductance of Coffea arabica under different shading systems",
+        "dc:creator": "Craparo A.C.W.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "755-763",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.158",
+        "pii": "S0048969717318612",
+        "citedby-count": "29",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of the Witwatersrand, Johannesburg",
+                "affiliation-city": "Johannesburg",
+                "affiliation-country": "South Africa"
+            }
+        ],
+        "pubmed-id": "28763672",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026402654"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026402654?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026402654&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026402654&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217321979"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026402654",
+        "dc:identifier": "SCOPUS_ID:85026402654",
+        "eid": "2-s2.0-85026402654",
+        "dc:title": "New insights into canted spiro carbon interstitial in graphite",
+        "dc:creator": "EL-Barbary A.A.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "238-243",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.196",
+        "pii": "S0169433217321979",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "College of Science",
+                "affiliation-city": "Cairo",
+                "affiliation-country": "Egypt"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026401947"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026401947?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026401947&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026401947&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217321669"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026401947",
+        "dc:identifier": "SCOPUS_ID:85026401947",
+        "eid": "2-s2.0-85026401947",
+        "dc:title": "DFT study of hydrogen production from formic acid decomposition on Pd-Au alloy nanoclusters",
+        "dc:creator": "Liu D.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "194-205",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.165",
+        "pii": "S0169433217321669",
+        "citedby-count": "47",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Yanshan University",
+                "affiliation-city": "Qinhuangdao",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026401621"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026401621?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026401621&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026401621&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217321293"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026401621",
+        "dc:identifier": "SCOPUS_ID:85026401621",
+        "eid": "2-s2.0-85026401621",
+        "dc:title": "One-step preparation of Ti <sup>3+</sup> self-doped TiO <inf>2</inf> single crystals with internal-pores and highly exposed {001} facets for improved photocatalytic activity",
+        "dc:creator": "Sui Y.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "116-122",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.137",
+        "pii": "S0169433217321293",
+        "citedby-count": "28",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Alberta",
+                "affiliation-city": "Edmonton",
+                "affiliation-country": "Canada"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Central South University",
+                "affiliation-city": "Changsha",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026401437"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026401437?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026401437&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026401437&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717319204"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026401437",
+        "dc:identifier": "SCOPUS_ID:85026401437",
+        "eid": "2-s2.0-85026401437",
+        "dc:title": "Temporal trends of surface urban heat islands and associated determinants in major Chinese cities",
+        "dc:creator": "Yao R.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "742-754",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.217",
+        "pii": "S0048969717319204",
+        "citedby-count": "232",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "China University of Geosciences",
+                "affiliation-city": "Wuhan",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28763671",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026401000"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026401000?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026401000&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026401000&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217320858"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026401000",
+        "dc:identifier": "SCOPUS_ID:85026401000",
+        "eid": "2-s2.0-85026401000",
+        "dc:title": "Fabrication of hierarchical porous ZnO-Al <inf>2</inf> O <inf>3</inf> microspheres with enhanced adsorption performance",
+        "dc:creator": "Lei C.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "360-368",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.095",
+        "pii": "S0169433217320858",
+        "citedby-count": "94",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Changzhou University",
+                "affiliation-city": "Changzhou",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Wuhan University of Technology",
+                "affiliation-city": "Wuhan",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026399854"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026399854?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026399854&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026399854&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217321220"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026399854",
+        "dc:identifier": "SCOPUS_ID:85026399854",
+        "eid": "2-s2.0-85026399854",
+        "dc:title": "Study of Cu <inf>2</inf> O\\ZnO nanowires heterojunction designed by combining electrodeposition and atomic layer deposition",
+        "dc:creator": "Makhlouf H.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "301-306",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.130",
+        "pii": "S0169433217321220",
+        "citedby-count": "23",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Centre de Recherches et des Technologies de l'Energie",
+                "affiliation-city": "Hamam Lif",
+                "affiliation-country": "Tunisia"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Université de Tunis El Manar, Faculté des Sciences de Tunis",
+                "affiliation-city": "Tunis",
+                "affiliation-country": "Tunisia"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Institut Européen des Membranes UMR5635",
+                "affiliation-city": "Montpellier",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026399759"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026399759?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026399759&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026399759&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217321992"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026399759",
+        "dc:identifier": "SCOPUS_ID:85026399759",
+        "eid": "2-s2.0-85026399759",
+        "dc:title": "First-principles study of the small molecule adsorption on the InSe monolayer",
+        "dc:creator": "Ma D.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "244-252",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.198",
+        "pii": "S0169433217321992",
+        "citedby-count": "106",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Anyang Normal University",
+                "affiliation-city": "Anyang",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "The University of Hong Kong",
+                "affiliation-city": "Hong Kong",
+                "affiliation-country": "Hong Kong"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026399068"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026399068?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026399068&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026399068&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318806"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026399068",
+        "dc:identifier": "SCOPUS_ID:85026399068",
+        "eid": "2-s2.0-85026399068",
+        "dc:title": "Prediction of fish catch in the Danube River based on long-term variability in environmental parameters and catch statistics",
+        "dc:creator": "Smederevac-Lalić M.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "664-671",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.177",
+        "pii": "S0048969717318806",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute for Multidisciplinary Research, University of Belgrade",
+                "affiliation-city": "Belgrade",
+                "affiliation-country": "Serbia"
+            }
+        ],
+        "pubmed-id": "28763663",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026398403"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026398403?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026398403&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026398403&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317904"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026398403",
+        "dc:identifier": "SCOPUS_ID:85026398403",
+        "eid": "2-s2.0-85026398403",
+        "dc:title": "Urban environments alter parasite fauna, weight and reproductive activity in the quenda (Isoodon obesulus)",
+        "dc:creator": "Hillman A.E.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "607-608",
+        "prism:pageRange": "1466-1478",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.086",
+        "pii": "S0048969717317904",
+        "citedby-count": "23",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Murdoch University",
+                "affiliation-city": "Perth",
+                "affiliation-country": "Australia"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Alison Hillman-email",
+                "affiliation-city": "Perth",
+                "affiliation-country": "Australia"
+            }
+        ],
+        "pubmed-id": "28764110",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026398017"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026398017?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026398017&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026398017&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318491"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026398017",
+        "dc:identifier": "SCOPUS_ID:85026398017",
+        "eid": "2-s2.0-85026398017",
+        "dc:title": "Effects of hexaconazole application on soil microbes community and nitrogen transformations in paddy soils",
+        "dc:creator": "Ju C.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "655-663",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.146",
+        "pii": "S0048969717318491",
+        "citedby-count": "66",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Chinese Academy of Agricultural Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28763662",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026396408"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026396408?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026396408&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026396408&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217322146"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026396408",
+        "dc:identifier": "SCOPUS_ID:85026396408",
+        "eid": "2-s2.0-85026396408",
+        "dc:title": "Fabrication of nanochannels on polyimide films using dynamic plowing lithography",
+        "dc:creator": "Stoica I.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "307-314",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.214",
+        "pii": "S0169433217322146",
+        "citedby-count": "20",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Petru Poni Institute of Macromolecular chemistry",
+                "affiliation-city": "Iasi",
+                "affiliation-country": "Romania"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026394124"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026394124?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026394124&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026394124&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717319071"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026394124",
+        "dc:identifier": "SCOPUS_ID:85026394124",
+        "eid": "2-s2.0-85026394124",
+        "dc:title": "Review on characteristics of PAHs in atmosphere, anthropogenic sources and control technologies",
+        "dc:creator": "Dat N.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "682-693",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.204",
+        "pii": "S0048969717319071",
+        "citedby-count": "339",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "National Central University",
+                "affiliation-city": "Taoyuan",
+                "affiliation-country": "Taiwan"
+            }
+        ],
+        "pubmed-id": "28763665",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026393204"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026393204?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026393204&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026393204&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217322134"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026393204",
+        "dc:identifier": "SCOPUS_ID:85026393204",
+        "eid": "2-s2.0-85026393204",
+        "dc:title": "Self-organization of palladium nanoislands on GaN and Al <inf>x</inf> Ga <inf>1−x</inf> N/GaN heterostructures",
+        "dc:creator": "Stafiniak A.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "123-132",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.213",
+        "pii": "S0169433217322134",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Politechnika Wrocławska",
+                "affiliation-city": "Wroclaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026392765"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026392765?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026392765&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026392765&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217322067"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026392765",
+        "dc:identifier": "SCOPUS_ID:85026392765",
+        "eid": "2-s2.0-85026392765",
+        "dc:title": "Operando study of Fe <inf>3</inf> O <inf>4</inf> anodes by electrochemical atomic force microscopy",
+        "dc:creator": "Wang S.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "217-223",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.206",
+        "pii": "S0169433217322067",
+        "citedby-count": "28",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ningbo Institute of Industrial Technology, Chinese Academy of Sciences",
+                "affiliation-city": "Ningbo",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026390867"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026390867?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026390867&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026390867&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217321736"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026390867",
+        "dc:identifier": "SCOPUS_ID:85026390867",
+        "eid": "2-s2.0-85026390867",
+        "dc:title": "Origin and chemical composition of the amorphous material from the intergrain pores of self-assembled cubic ZnS:Mn nanocrystals",
+        "dc:creator": "Stefan M.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "342-350",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.172",
+        "pii": "S0169433217321736",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institut de Physique des Matériaux, Bucarest-Magurele",
+                "affiliation-city": "Bucarest-Magurele",
+                "affiliation-country": "Romania"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026390228"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026390228?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026390228&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026390228&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217321670"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026390228",
+        "dc:identifier": "SCOPUS_ID:85026390228",
+        "eid": "2-s2.0-85026390228",
+        "dc:title": "Facile synthesis of hydrangea-like core-shell Pd@Pt/graphene composite as an efficient electrocatalyst for methanol oxidation",
+        "dc:creator": "Xu S.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "351-359",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.166",
+        "pii": "S0169433217321670",
+        "citedby-count": "23",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Fujian Normal University",
+                "affiliation-city": "Fuzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026386067"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026386067?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026386067&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026386067&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217321190"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026386067",
+        "dc:identifier": "SCOPUS_ID:85026386067",
+        "eid": "2-s2.0-85026386067",
+        "dc:title": "Preparation of nitrogen-doped biomass-derived carbon nanofibers/graphene aerogel as a binder-free electrode for high performance supercapacitors",
+        "dc:creator": "Zhang Y.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "99-106",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.127",
+        "pii": "S0169433217321190",
+        "citedby-count": "75",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "North China Electric Power University",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026385267"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026385267?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026385267&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026385267&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217321748"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026385267",
+        "dc:identifier": "SCOPUS_ID:85026385267",
+        "eid": "2-s2.0-85026385267",
+        "dc:title": "Green and facile synthesis of fibrous Ag/cotton composites and their catalytic properties for 4-nitrophenol reduction",
+        "dc:creator": "Li Z.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "160-168",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.173",
+        "pii": "S0169433217321748",
+        "citedby-count": "38",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Anhui University of Technology",
+                "affiliation-city": "Maanshan",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026381636"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026381636?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026381636&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026381636&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318740"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026381636",
+        "dc:identifier": "SCOPUS_ID:85026381636",
+        "eid": "2-s2.0-85026381636",
+        "dc:title": "Effects of exposure to pharmaceuticals (diclofenac and carbamazepine) spiked sediments in the midge, Chironomus riparius (Diptera, Chironomidae)",
+        "dc:creator": "Nieto E.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "715-723",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.171",
+        "pii": "S0048969717318740",
+        "citedby-count": "25",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "CSIC - Instituto de Ciencias Marinas de Andalucia (ICMAN)",
+                "affiliation-city": "Cadiz",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "pubmed-id": "28763668",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026378376"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026378376?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026378376&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026378376&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717319010"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026378376",
+        "dc:identifier": "SCOPUS_ID:85026378376",
+        "eid": "2-s2.0-85026378376",
+        "dc:title": "Performance assessment of individual and ensemble data-mining techniques for gully erosion modeling",
+        "dc:creator": "Pourghasemi H.R.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "764-775",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.198",
+        "pii": "S0048969717319010",
+        "citedby-count": "252",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Shiraz University",
+                "affiliation-city": "Shiraz",
+                "affiliation-country": "Iran"
+            }
+        ],
+        "pubmed-id": "28763673",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026377828"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85026377828?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85026377828&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85026377828&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0169433217320950"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85026377828",
+        "dc:identifier": "SCOPUS_ID:85026377828",
+        "eid": "2-s2.0-85026377828",
+        "dc:title": "Modifying sulfomethylated alkali lignin by horseradish peroxidase to improve the dispersibility and conductivity of polyaniline",
+        "dc:creator": "Yang D.",
+        "prism:publicationName": "Applied Surface Science",
+        "prism:issn": "01694332",
+        "prism:volume": "426",
+        "prism:pageRange": "287-293",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.apsusc.2017.07.102",
+        "pii": "S0169433217320950",
+        "citedby-count": "27",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "South China University of Technology",
+                "affiliation-city": "Guangzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28983",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

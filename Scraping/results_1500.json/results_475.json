@@ -1,0 +1,1571 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045699967"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045699967?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045699967&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045699967&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045699967",
+        "dc:identifier": "SCOPUS_ID:85045699967",
+        "eid": "2-s2.0-85045699967",
+        "dc:title": "Application of Composite Insulators and Analysis of Rain Flashover in Converter Stations",
+        "dc:creator": "Wei X.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3958-3963",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127019",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "China Southern Power Grid",
+                "affiliation-city": "Guangzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045699271"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045699271?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045699271&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045699271&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045699271",
+        "dc:identifier": "SCOPUS_ID:85045699271",
+        "eid": "2-s2.0-85045699271",
+        "dc:title": "Fault Diagnosis for Open Circuit Switch Based on Instantaneous Power for Three-level ANPC Converter",
+        "dc:creator": "Zhang B.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "4070-4078",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127035",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Electrical Engineering, Chinese Academy of Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Chinese Academy of Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045699121"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045699121?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045699121&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045699121&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045699121",
+        "dc:identifier": "SCOPUS_ID:85045699121",
+        "eid": "2-s2.0-85045699121",
+        "dc:title": "Status and Prospect on Technical Research of Power Transmission in Desert Areas",
+        "dc:creator": "Deng H.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3850-3861",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20170627001",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "NARI Group Corporation (State Grid Electric Power Research Institute)",
+                "affiliation-city": "Nanjing",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Wuhan NARI Limited Liability Company",
+                "affiliation-city": "Wuhan",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698630"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698630?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045698630&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045698630&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045698630",
+        "dc:identifier": "SCOPUS_ID:85045698630",
+        "eid": "2-s2.0-85045698630",
+        "dc:title": "Influence of Insoluble Substance Hygroscopicity on Insulator Leakage Current",
+        "dc:creator": "Tang M.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3964-3972",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127020",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Electric Power Research Institute of Guangdong Power Grid",
+                "affiliation-city": "Guangzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698568"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698568?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045698568&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045698568&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045698568",
+        "dc:identifier": "SCOPUS_ID:85045698568",
+        "eid": "2-s2.0-85045698568",
+        "dc:title": "Interruption Characteristics of High-voltage Hybrid Circuit Breaker Based on the Alternative of SF<inf>6</inf> Gas",
+        "dc:creator": "Cheng X.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3862-3868",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127006",
+        "citedby-count": "16",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Zhengzhou University",
+                "affiliation-city": "Zhengzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698444"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698444?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045698444&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045698444&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045698444",
+        "dc:identifier": "SCOPUS_ID:85045698444",
+        "eid": "2-s2.0-85045698444",
+        "dc:title": "Inductance Gradient for Rail-type Electromagnetic Launcher Under Transient Conditions",
+        "dc:creator": "Wang Z.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "4039-4044",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127031",
+        "citedby-count": "15",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Electrical Engineering, Chinese Academy of Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Chinese Academy of Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698232"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698232?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045698232&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045698232&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045698232",
+        "dc:identifier": "SCOPUS_ID:85045698232",
+        "eid": "2-s2.0-85045698232",
+        "dc:title": "Electric Field Simulation and Comparison of Shielding Apparatus on Typical Types of UHVDC Converter Valve Units",
+        "dc:creator": "Wang J.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "4123-4131",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127041",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Xi'an Jiaotong University",
+                "affiliation-city": "Xi'an",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698161"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698161?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045698161&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045698161&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045698161",
+        "dc:identifier": "SCOPUS_ID:85045698161",
+        "eid": "2-s2.0-85045698161",
+        "dc:title": "New Method to Describe Contamination Degree of Insulators by Effective Equivalent Salt Deposit Density",
+        "dc:creator": "Jiang X.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3869-3875",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127007",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Tsinghua University",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698014"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045698014?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045698014&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045698014&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045698014",
+        "dc:identifier": "SCOPUS_ID:85045698014",
+        "eid": "2-s2.0-85045698014",
+        "dc:title": "Nonlinear Active Disturbance Rejection Control of Static Var Generator with Cascaded Unit Considering Time-delay Factor",
+        "dc:creator": "Yu Y.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3950-3957",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127018",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Heilongjiang University of Science and Technology",
+                "affiliation-city": "Harbin",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Harbin Institute of Technology",
+                "affiliation-city": "Harbin",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045697851"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045697851?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045697851&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045697851&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045697851",
+        "dc:identifier": "SCOPUS_ID:85045697851",
+        "eid": "2-s2.0-85045697851",
+        "dc:title": "Air-cooled Thermal Circuit Model and FBG Temperature Measurement of Transformer Winding",
+        "dc:creator": "Zhao Z.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3938-3943",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127016",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kunming University of Science and Technology",
+                "affiliation-city": "Kunming",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045697038"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045697038?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045697038&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045697038&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045697038",
+        "dc:identifier": "SCOPUS_ID:85045697038",
+        "eid": "2-s2.0-85045697038",
+        "dc:title": "Waveform Analysis and Feature Extraction of Partial Discharge UHF Signals in Gas Insulated Switchgear",
+        "dc:creator": "Zhu M.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "4079-4087",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127036",
+        "citedby-count": "25",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Xi'an Jiaotong University",
+                "affiliation-city": "Xi'an",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045113539"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045113539?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045113539&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045113539&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045113539",
+        "dc:identifier": "SCOPUS_ID:85045113539",
+        "eid": "2-s2.0-85045113539",
+        "dc:title": "Fluorophenylazocarboxylates: Design and Synthesis of Potential Radioligands for Dopamine D3 and μ-Opioid Receptor",
+        "dc:creator": "Nebel N.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "8649-8659",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01374",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+                "affiliation-city": "Erlangen",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045105819"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045105819?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045105819&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045105819&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045105819",
+        "dc:identifier": "SCOPUS_ID:85045105819",
+        "eid": "2-s2.0-85045105819",
+        "dc:title": "Logit and probit application for the prediction of bankruptcy in slovak companies",
+        "dc:creator": "Kovacova M.",
+        "prism:publicationName": "Equilibrium. Quarterly Journal of Economics and Economic Policy",
+        "prism:issn": "1689765X",
+        "prism:eIssn": "23533293",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "775-791",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24136/eq.v12i4.40",
+        "citedby-count": "81",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Žilina",
+                "affiliation-city": "Zilina",
+                "affiliation-country": "Slovakia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101052714",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045093750"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045093750?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045093750&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045093750&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045093750",
+        "dc:identifier": "SCOPUS_ID:85045093750",
+        "eid": "2-s2.0-85045093750",
+        "dc:title": "Cultural, political and economic roots of the labor market institutional framework in the oecd and post-socialist countries",
+        "dc:creator": "Pilc M.",
+        "prism:publicationName": "Equilibrium. Quarterly Journal of Economics and Economic Policy",
+        "prism:issn": "1689765X",
+        "prism:eIssn": "23533293",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "713-731",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24136/eq.v12i4.37",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Poznań University of Economics and Business",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101052714",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045024943"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045024943?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045024943&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045024943&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045024943",
+        "dc:identifier": "SCOPUS_ID:85045024943",
+        "eid": "2-s2.0-85045024943",
+        "dc:title": "Detection of Organochlorine Pesticides in Contaminated Marine Environments via Cyclodextrin-Promoted Fluorescence Modulation",
+        "dc:creator": "Discenza D.J.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "8591-8599",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b00991",
+        "citedby-count": "25",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "College of Arts and Sciences",
+                "affiliation-city": "Kingston",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045007991"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045007991?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045007991&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045007991&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045007991",
+        "dc:identifier": "SCOPUS_ID:85045007991",
+        "eid": "2-s2.0-85045007991",
+        "dc:title": "Structural transformation and economic development in the best performing sub-saharan african states",
+        "dc:creator": "Świerczyńska K.",
+        "prism:publicationName": "Equilibrium. Quarterly Journal of Economics and Economic Policy",
+        "prism:issn": "1689765X",
+        "prism:eIssn": "23533293",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "547-571",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24136/eq.v12i4.29",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Poznań University of Economics and Business",
+                "affiliation-city": "Poznan",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101052714",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044823051"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044823051?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044823051&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044823051&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044823051",
+        "dc:identifier": "SCOPUS_ID:85044823051",
+        "eid": "2-s2.0-85044823051",
+        "dc:title": "National intellectual capital influence on economic growth in the European Union countries",
+        "dc:creator": "Mačerinskienė I.",
+        "prism:publicationName": "Equilibrium. Quarterly Journal of Economics and Economic Policy",
+        "prism:issn": "1689765X",
+        "prism:eIssn": "23533293",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "573-592",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.24136/eq.v12i4.30",
+        "citedby-count": "21",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Mykolas Romeris University",
+                "affiliation-city": "Vilnius",
+                "affiliation-country": "Lithuania"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101052714",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044750145"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044750145?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044750145&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044750145&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044750145",
+        "dc:identifier": "SCOPUS_ID:85044750145",
+        "eid": "2-s2.0-85044750145",
+        "dc:title": "Decoding reed-muller codes over product sets",
+        "dc:creator": "Kim J.Y.",
+        "prism:publicationName": "Theory of Computing",
+        "prism:eIssn": "15572862",
+        "prism:volume": "13",
+        "prism:pageRange": "1-38",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.4086/toc.2017.v013a021",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Virtu Financial",
+                "affiliation-city": "Austin",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100818505",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044677797"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044677797?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044677797&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044677797&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044677797",
+        "dc:identifier": "SCOPUS_ID:85044677797",
+        "eid": "2-s2.0-85044677797",
+        "dc:title": "Maria Callas's waistline and the organology of voice",
+        "dc:creator": "Eidsheim N.S.",
+        "prism:publicationName": "Opera Quarterly",
+        "prism:issn": "07360053",
+        "prism:volume": "33",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "249-268",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1093/oq/kbx008",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of California, Los Angeles",
+                "affiliation-city": "Los Angeles",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "16600154703",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044660291"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044660291?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044660291&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044660291&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044660291",
+        "dc:identifier": "SCOPUS_ID:85044660291",
+        "eid": "2-s2.0-85044660291",
+        "dc:title": "A note from the guest editor",
+        "dc:creator": "Dolan E.I.",
+        "prism:publicationName": "Opera Quarterly",
+        "prism:issn": "07360053",
+        "prism:volume": "33",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "203-206",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1093/oq/kbx024",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Harvard University",
+                "affiliation-city": "Cambridge",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "16600154703",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044656685"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044656685?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044656685&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044656685&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044656685",
+        "dc:identifier": "SCOPUS_ID:85044656685",
+        "eid": "2-s2.0-85044656685",
+        "dc:title": "Vocal philologies: Written on skin and the troubadours",
+        "dc:creator": "Dillon E.",
+        "prism:publicationName": "Opera Quarterly",
+        "prism:issn": "07360053",
+        "prism:volume": "33",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "207-248",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1093/oq/kbx029",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "King's College London",
+                "affiliation-city": "London",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "16600154703",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044649168"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044649168?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044649168&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044649168&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044649168",
+        "dc:identifier": "SCOPUS_ID:85044649168",
+        "eid": "2-s2.0-85044649168",
+        "dc:title": "How many voices can she have? Destabilizing desire and identification in American Lulu",
+        "dc:creator": "Latham C.H.",
+        "prism:publicationName": "Opera Quarterly",
+        "prism:issn": "07360053",
+        "prism:volume": "33",
+        "prism:issueIdentifier": "3-4",
+        "prism:pageRange": "303-318",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1093/oq/kbx030",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Massachusetts Institute of Technology",
+                "affiliation-city": "Cambridge",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "16600154703",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044047338"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044047338?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044047338&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044047338&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044047338",
+        "dc:identifier": "SCOPUS_ID:85044047338",
+        "eid": "2-s2.0-85044047338",
+        "dc:title": "PH-Regulated synthesis of trypsin-templated copper nanoclusters with blue and yellow fluorescent emission",
+        "dc:creator": "Feng J.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "9109-9117",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01052",
+        "citedby-count": "49",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "State Key Laboratory of Applied Organic Chemistry",
+                "affiliation-city": "Lanzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044005383"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85044005383?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85044005383&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85044005383&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85044005383",
+        "dc:identifier": "SCOPUS_ID:85044005383",
+        "eid": "2-s2.0-85044005383",
+        "dc:title": "The use of business games in the doctoral curriculum: \"enterprise education\" and \"entrepreneurship education\" in research training",
+        "dc:creator": "Frances J.",
+        "prism:publicationName": "Formation Emploi",
+        "prism:issn": "07596340",
+        "prism:eIssn": "21070946",
+        "prism:volume": "140",
+        "prism:pageRange": "67-86",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "École des Hautes Études en Sciences Sociales",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100268385",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85043771624"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85043771624?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85043771624&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85043771624&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85043771624",
+        "dc:identifier": "SCOPUS_ID:85043771624",
+        "eid": "2-s2.0-85043771624",
+        "dc:title": "Synthesis and Characterization of Thermoresponsive Hydrogels Based on N-Isopropylacrylamide Crosslinked with 4,4′-Dihydroxybiphenyl Diacrylate",
+        "dc:creator": "Tang S.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "8723-8729",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01247",
+        "citedby-count": "29",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Stanley and Karen Pigman College of Engineering",
+                "affiliation-city": "Lexington",
+                "affiliation-country": "United States"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "University of Kentucky",
+                "affiliation-city": "Lexington",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    }
+]

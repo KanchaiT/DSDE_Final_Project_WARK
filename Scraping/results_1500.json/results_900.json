@@ -1,0 +1,1820 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032487858"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032487858?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032487858&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032487858&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314349"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032487858",
+        "dc:identifier": "SCOPUS_ID:85032487858",
+        "eid": "2-s2.0-85032487858",
+        "dc:title": "Hydrogen production from a rectangular horizontal filter press Divergent Electrode-Flow-Through (DEFT™) alkaline electrolysis stack",
+        "dc:creator": "Gillespie M.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "252-259",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.080",
+        "pii": "S0378775317314349",
+        "citedby-count": "30",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Demcotech Engineering",
+                "affiliation-city": "Johannesburg",
+                "affiliation-country": "South Africa"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032486103"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032486103?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032486103&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032486103&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032486103",
+        "dc:identifier": "SCOPUS_ID:85032486103",
+        "eid": "2-s2.0-85032486103",
+        "dc:title": "Is mitochondrial dysfunction a driving mechanism linking COPD to nonsmall cell lung carcinoma?",
+        "dc:creator": "Ng Kee Kwong F.",
+        "prism:publicationName": "European Respiratory Review",
+        "prism:issn": "09059180",
+        "prism:eIssn": "16000617",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "146",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1183/16000617.0040-2017",
+        "citedby-count": "42",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Royal Brompton &amp; Harefield NHS Foundation Trust",
+                "affiliation-city": "London",
+                "affiliation-country": "United Kingdom"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "National Heart and Lung Institute",
+                "affiliation-city": "London",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "pubmed-id": "29070578",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "170040",
+        "source-id": "18476",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032485119"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032485119?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032485119&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032485119&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032485119",
+        "dc:identifier": "SCOPUS_ID:85032485119",
+        "eid": "2-s2.0-85032485119",
+        "dc:title": "Use of multitarget tyrosine kinase inhibitors to attenuate platelet-derived growth factor signalling in lung disease",
+        "dc:creator": "Kanaan R.",
+        "prism:publicationName": "European Respiratory Review",
+        "prism:issn": "09059180",
+        "prism:eIssn": "16000617",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "146",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1183/16000617.0061-2017",
+        "citedby-count": "15",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "College of Medicine",
+                "affiliation-city": "Charleston",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "29070579",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "170061",
+        "source-id": "18476",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032483312"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032483312?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032483312&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032483312&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032483312",
+        "dc:identifier": "SCOPUS_ID:85032483312",
+        "eid": "2-s2.0-85032483312",
+        "dc:title": "Lung segmentectomy: Does it offer a real functional benefit over lobectomy?",
+        "dc:creator": "Charloux A.",
+        "prism:publicationName": "European Respiratory Review",
+        "prism:issn": "09059180",
+        "prism:eIssn": "16000617",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "146",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1183/16000617.0079-2017",
+        "citedby-count": "77",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Mitochondrie, stress oxydant et protection musculaire (MSP)",
+                "affiliation-city": "Strasbourg",
+                "affiliation-country": "France"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Les Hôpitaux Universitaires de Strasbourg",
+                "affiliation-city": "Strasbourg",
+                "affiliation-country": "France"
+            }
+        ],
+        "pubmed-id": "29070582",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "170079",
+        "source-id": "18476",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032467337"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032467337?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032467337&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032467337&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032467337",
+        "dc:identifier": "SCOPUS_ID:85032467337",
+        "eid": "2-s2.0-85032467337",
+        "dc:title": "COPD in individuals with the piMZ alpha-1 antitrypsin genotype",
+        "dc:creator": "Al Ashry H.S.",
+        "prism:publicationName": "European Respiratory Review",
+        "prism:issn": "09059180",
+        "prism:eIssn": "16000617",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "146",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1183/16000617.0068-2017",
+        "citedby-count": "17",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "College of Medicine",
+                "affiliation-city": "Charleston",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "29070580",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "170068",
+        "source-id": "18476",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032463387"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032463387?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032463387&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032463387&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032463387",
+        "dc:identifier": "SCOPUS_ID:85032463387",
+        "eid": "2-s2.0-85032463387",
+        "dc:title": "Erratum: Intersections of lung progenitor cells, lung disease and lung cancer (Eur Respir Rev, (2017) 26, 170054, 10.1183/16000617.0054-2017)",
+        "prism:publicationName": "European Respiratory Review",
+        "prism:issn": "09059180",
+        "prism:eIssn": "16000617",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "146",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1183/16000617.5054-2017",
+        "citedby-count": "0",
+        "prism:aggregationType": "Journal",
+        "subtype": "er",
+        "subtypeDescription": "Erratum",
+        "article-number": "175054",
+        "source-id": "18476",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032463364"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032463364?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032463364&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032463364&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314362"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032463364",
+        "dc:identifier": "SCOPUS_ID:85032463364",
+        "eid": "2-s2.0-85032463364",
+        "dc:title": "Ultra-facile fabrication of phosphorus doped egg-like hierarchic porous carbon with superior supercapacitance performance by microwave irradiation combining with self-activation strategy",
+        "dc:creator": "Zhang D.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "260-269",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.082",
+        "pii": "S0378775317314362",
+        "citedby-count": "57",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Lanzhou University of Technology",
+                "affiliation-city": "Lanzhou",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Northwest Normal University China",
+                "affiliation-city": "Lanzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032454471"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032454471?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032454471&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032454471&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317313265"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032454471",
+        "dc:identifier": "SCOPUS_ID:85032454471",
+        "eid": "2-s2.0-85032454471",
+        "dc:title": "Electroactive ionic liquids based on 2,5-ditert-butyl-1,4-dimethoxybenzene and triflimide anion as redox shuttle for Li<inf>4</inf>Ti<inf>5</inf>O<inf>12</inf>/LiFePO<inf>4</inf> lithium-ion batteries",
+        "dc:creator": "Gélinas B.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "212-220",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.002",
+        "pii": "S0378775317313265",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Montreal",
+                "affiliation-city": "Montreal",
+                "affiliation-country": "Canada"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032450760"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032450760?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032450760&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032450760&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S037877531731409X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032450760",
+        "dc:identifier": "SCOPUS_ID:85032450760",
+        "eid": "2-s2.0-85032450760",
+        "dc:title": "Frost induced damages within porous materials - from concrete technology to fuel cells technique",
+        "dc:creator": "Palecki S.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "204-211",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.065",
+        "pii": "S037877531731409X",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "The Hydrogen and Fuel Cell Center ZBT GmbH",
+                "affiliation-city": "Duisburg",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032447668"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032447668?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032447668&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032447668&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314301"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032447668",
+        "dc:identifier": "SCOPUS_ID:85032447668",
+        "eid": "2-s2.0-85032447668",
+        "dc:title": "Template-free synthesis of two-dimensional titania/titanate nanosheets as electrodes for high-performance supercapacitor applications",
+        "dc:creator": "Barai H.R.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "227-234",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.076",
+        "pii": "S0378775317314301",
+        "citedby-count": "34",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Yeungnam University",
+                "affiliation-city": "Gyeongsan",
+                "affiliation-country": "South Korea"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032438870"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032438870?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032438870&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032438870&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314337"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032438870",
+        "dc:identifier": "SCOPUS_ID:85032438870",
+        "eid": "2-s2.0-85032438870",
+        "dc:title": "Mild solution-processed metal-doped TiO<inf>2</inf> compact layers for hysteresis-less and performance-enhanced perovskite solar cells",
+        "dc:creator": "Liang C.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "235-244",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.079",
+        "pii": "S0378775317314337",
+        "citedby-count": "67",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Zhengzhou University",
+                "affiliation-city": "Zhengzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032391341"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032391341?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032391341&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032391341&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317313897"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032391341",
+        "dc:identifier": "SCOPUS_ID:85032391341",
+        "eid": "2-s2.0-85032391341",
+        "dc:title": "Mathematical analysis and coordinated current allocation control in battery power module systems",
+        "dc:creator": "Han W.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "166-179",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.046",
+        "pii": "S0378775317313897",
+        "citedby-count": "13",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Connecticut",
+                "affiliation-city": "Storrs",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032374923"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032374923?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032374923&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032374923&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S037877531731426X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032374923",
+        "dc:identifier": "SCOPUS_ID:85032374923",
+        "eid": "2-s2.0-85032374923",
+        "dc:title": "Impact of operating conditions on the acetylene contamination in the cathode of proton exchange membrane fuel cells",
+        "dc:creator": "Zhai Y.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "134-144",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.072",
+        "pii": "S037877531731426X",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "School of Ocean and Earth Science and Technology",
+                "affiliation-city": "Honolulu",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032371879"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032371879?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032371879&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032371879&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314088"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032371879",
+        "dc:identifier": "SCOPUS_ID:85032371879",
+        "eid": "2-s2.0-85032371879",
+        "dc:title": "Gadolinium doped ceria interlayers for Solid Oxide Fuel Cells cathodes: Enhanced reactivity with sintering aids (Li, Cu, Zn), and improved densification by infiltration",
+        "dc:creator": "Nicollet C.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "157-165",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.064",
+        "pii": "S0378775317314088",
+        "citedby-count": "42",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université de Bordeaux",
+                "affiliation-city": "Bordeaux",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032362740"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032362740?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032362740&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032362740&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314283"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032362740",
+        "dc:identifier": "SCOPUS_ID:85032362740",
+        "eid": "2-s2.0-85032362740",
+        "dc:title": "Toward greener lithium-ion batteries: Aqueous binder-based LiNi<inf>0.4</inf>Co<inf>0.2</inf>Mn<inf>0.4</inf>O<inf>2</inf> cathode material with superior electrochemical performance",
+        "dc:creator": "Chen Z.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "180-187",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.074",
+        "pii": "S0378775317314283",
+        "citedby-count": "59",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Energy Research Institute @NTU",
+                "affiliation-city": "Singapore City",
+                "affiliation-country": "Singapore"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Helmholtz-Institut Ulm",
+                "affiliation-city": "Ulm",
+                "affiliation-country": "Germany"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Nanyang Technological University",
+                "affiliation-city": "Singapore City",
+                "affiliation-country": "Singapore"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032358370"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032358370?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032358370&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032358370&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314258"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032358370",
+        "dc:identifier": "SCOPUS_ID:85032358370",
+        "eid": "2-s2.0-85032358370",
+        "dc:title": "Palliative effects of H<inf>2</inf> on SOFCs operating with carbon containing fuels",
+        "dc:creator": "Reeping K.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "188-195",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.071",
+        "pii": "S0378775317314258",
+        "citedby-count": "15",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Montana State University",
+                "affiliation-city": "Bozeman",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032346816"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032346816?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032346816&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032346816&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S037877531731412X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032346816",
+        "dc:identifier": "SCOPUS_ID:85032346816",
+        "eid": "2-s2.0-85032346816",
+        "dc:title": "FeSi<inf>4</inf>P<inf>4</inf>: A novel negative electrode with atypical electrochemical mechanism for Li and Na-ion batteries",
+        "dc:creator": "Coquil G.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "196-203",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.069",
+        "pii": "S037877531731412X",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "CNRS Centre National de la Recherche Scientifique",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032343918"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032343918?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032343918&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032343918&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032343918",
+        "dc:identifier": "SCOPUS_ID:85032343918",
+        "eid": "2-s2.0-85032343918",
+        "dc:title": "Laser synthesized TiO<inf>2</inf>-based nanoparticles and their efficiency in the photocatalytic degradation of linear carboxylic acids",
+        "dc:creator": "Bouhadoun S.",
+        "prism:publicationName": "Science and Technology of Advanced Materials",
+        "prism:issn": "14686996",
+        "prism:eIssn": "18785514",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "805-815",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/14686996.2017.1379858",
+        "citedby-count": "8",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université Paris-Saclay",
+                "affiliation-city": "Gif-sur-Yvette",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17918",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032341207"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032341207?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032341207&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032341207&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314039"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032341207",
+        "dc:identifier": "SCOPUS_ID:85032341207",
+        "eid": "2-s2.0-85032341207",
+        "dc:title": "Comparison of iron and copper doped manganese cobalt spinel oxides as protective coatings for solid oxide fuel cell interconnects",
+        "dc:creator": "Talic B.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "145-156",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.060",
+        "pii": "S0378775317314039",
+        "citedby-count": "101",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Norges Teknisk-Naturvitenskapelige Universitet",
+                "affiliation-city": "Trondheim",
+                "affiliation-country": "Norway"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Technical University of Denmark",
+                "affiliation-city": "Lyngby",
+                "affiliation-country": "Denmark"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032332635"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032332635?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032332635&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032332635&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032332635",
+        "dc:identifier": "SCOPUS_ID:85032332635",
+        "eid": "2-s2.0-85032332635",
+        "dc:title": "Petascale supercomputing to accelerate the design of high-temperature alloys",
+        "dc:creator": "Shin D.",
+        "prism:publicationName": "Science and Technology of Advanced Materials",
+        "prism:issn": "14686996",
+        "prism:eIssn": "18785514",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "828-838",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/14686996.2017.1371559",
+        "citedby-count": "19",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Oak Ridge National Laboratory",
+                "affiliation-city": "Oak Ridge",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "17918",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032306665"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032306665?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032306665&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032306665&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314118"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032306665",
+        "dc:identifier": "SCOPUS_ID:85032306665",
+        "eid": "2-s2.0-85032306665",
+        "dc:title": "Manganese dioxide decoration of macroscopic carbon nanotube fibers: From high-performance liquid-based to all-solid-state supercapacitors",
+        "dc:creator": "Pendashteh A.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "64-73",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.068",
+        "pii": "S0378775317314118",
+        "citedby-count": "57",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Instituto IMDEA Energía",
+                "affiliation-city": "Mostoles",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032301607"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032301607?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032301607&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032301607&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314295"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032301607",
+        "dc:identifier": "SCOPUS_ID:85032301607",
+        "eid": "2-s2.0-85032301607",
+        "dc:title": "Does size matter – What other factors are limiting the rate performance of Na<inf>3</inf>V<inf>2</inf>(PO<inf>4</inf>)<inf>3</inf> cathode in sodium-ion batteries",
+        "dc:creator": "Jiang X.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "91-98",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.075",
+        "pii": "S0378775317314295",
+        "citedby-count": "21",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "National University of Singapore",
+                "affiliation-city": "Singapore City",
+                "affiliation-country": "Singapore"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032297335"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032297335?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032297335&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032297335&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317314106"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032297335",
+        "dc:identifier": "SCOPUS_ID:85032297335",
+        "eid": "2-s2.0-85032297335",
+        "dc:title": "Infiltrated La<inf>0.4</inf>Sr<inf>0.4</inf>Fe<inf>0.03</inf>Ni<inf>0.03</inf>Ti<inf>0.94</inf>O<inf>3</inf> based anodes for all ceramic and metal supported solid oxide fuel cells",
+        "dc:creator": "Nielsen J.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "99-106",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.066",
+        "pii": "S0378775317314106",
+        "citedby-count": "27",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Technical University of Denmark",
+                "affiliation-city": "Lyngby",
+                "affiliation-country": "Denmark"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032291288"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032291288?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032291288&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032291288&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0040609017307964"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032291288",
+        "dc:identifier": "SCOPUS_ID:85032291288",
+        "eid": "2-s2.0-85032291288",
+        "dc:title": "Structure and properties of magnetron-sputtered manganese ferrite films",
+        "dc:creator": "Fietzke F.",
+        "prism:publicationName": "Thin Solid Films",
+        "prism:issn": "00406090",
+        "prism:volume": "644",
+        "prism:pageRange": "138-145",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.tsf.2017.10.034",
+        "pii": "S0040609017307964",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Fraunhofer-Institut Für Organische Elektronik, Elektronenstrahl- Und Plasmatechnik",
+                "affiliation-city": "Dresden",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "12347",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032272979"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85032272979?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85032272979&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85032272979&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0378775317313782"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85032272979",
+        "dc:identifier": "SCOPUS_ID:85032272979",
+        "eid": "2-s2.0-85032272979",
+        "dc:title": "Simultaneous reduction and nitrogen functionalization of graphene oxide using lemon for metal-free oxygen reduction reaction",
+        "dc:creator": "Begum H.",
+        "prism:publicationName": "Journal of Power Sources",
+        "prism:issn": "03787753",
+        "prism:volume": "372",
+        "prism:pageRange": "116-124",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.jpowsour.2017.10.035",
+        "pii": "S0378775317313782",
+        "citedby-count": "53",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Chonnam National University",
+                "affiliation-city": "Gwangju",
+                "affiliation-country": "South Korea"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "18063",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

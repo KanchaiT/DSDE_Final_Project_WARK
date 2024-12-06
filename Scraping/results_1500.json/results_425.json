@@ -1,0 +1,1468 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047323396"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047323396?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047323396&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047323396&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047323396",
+        "dc:identifier": "SCOPUS_ID:85047323396",
+        "eid": "2-s2.0-85047323396",
+        "dc:title": "Prevalence and biosocial determinants of potentially malignant disorders of oral soft tissue in slum population of Western Uttar Pradesh",
+        "dc:creator": "Kumar A.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "376-381",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Saraswati Medical College",
+                "affiliation-city": "Unnao",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047319106"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047319106?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047319106&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047319106&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047319106",
+        "dc:identifier": "SCOPUS_ID:85047319106",
+        "eid": "2-s2.0-85047319106",
+        "dc:title": "Needle stick injuries among health care workers in a tertiary care hospital in district Bathinda, Punjab",
+        "dc:creator": "Lal D.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "429-433",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Adesh Institute of Medical Sciences &amp; Research",
+                "affiliation-city": "Bhatinda",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047319046"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047319046?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047319046&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047319046&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047319046",
+        "dc:identifier": "SCOPUS_ID:85047319046",
+        "eid": "2-s2.0-85047319046",
+        "dc:title": "A systematic approach for early identification of syphilis infection among men having sex with men in Chennai city: - A page rank based approach",
+        "dc:creator": "Annadurai K.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "389-395",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "SRM University Delhi-NCR, Sonepat",
+                "affiliation-city": "Sonipat",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047315732"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047315732?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047315732&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047315732&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047315732",
+        "dc:identifier": "SCOPUS_ID:85047315732",
+        "eid": "2-s2.0-85047315732",
+        "dc:title": "Challenges in management of tuberculosis under programmatic conditions: Perceptions of health care providers from four states of India",
+        "dc:creator": "Babu R.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "382-388",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "International Union Against Tuberculosis and Lung Disease",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047311971"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047311971?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047311971&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047311971&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047311971",
+        "dc:identifier": "SCOPUS_ID:85047311971",
+        "eid": "2-s2.0-85047311971",
+        "dc:title": "Clinico-epidemiological profile of trauma victims in a tertiary care hospital in rural setting of central Uttar Pradesh",
+        "dc:creator": "Singh N.P.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "424-428",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Uttar Pradesh University of Medical Sciences",
+                "affiliation-city": "Etawah",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047311684"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047311684?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047311684&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047311684&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047311684",
+        "dc:identifier": "SCOPUS_ID:85047311684",
+        "eid": "2-s2.0-85047311684",
+        "dc:title": "Managing effective reform for community medicine subject: Vision to actions",
+        "dc:creator": "Kadri A.M.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "337-339",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pandit Dindayal Upadhyay Medical College, Rajkot",
+                "affiliation-city": "Rajkot",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ed",
+        "subtypeDescription": "Editorial",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047307663"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047307663?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047307663&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047307663&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047307663",
+        "dc:identifier": "SCOPUS_ID:85047307663",
+        "eid": "2-s2.0-85047307663",
+        "dc:title": "A cross sectional study on internet usage for health information among 18-49 years in urban Chandigarh",
+        "dc:creator": "Soni T.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "445-449",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Postgraduate Institute of Medical Education and Research, Chandigarh",
+                "affiliation-city": "Chandigarh",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047304959"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047304959?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047304959&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047304959&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047304959",
+        "dc:identifier": "SCOPUS_ID:85047304959",
+        "eid": "2-s2.0-85047304959",
+        "dc:title": "The sexual behavior’s related factors of senior high schools teenagers in Bukittinggi 2017",
+        "dc:creator": "Nurdin Y.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "417-423",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universitas Andalas",
+                "affiliation-city": "Padang",
+                "affiliation-country": "Indonesia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047302823"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047302823?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047302823&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047302823&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047302823",
+        "dc:identifier": "SCOPUS_ID:85047302823",
+        "eid": "2-s2.0-85047302823",
+        "dc:title": "The willingness for using mobile phone for health education among women caregivers of under 5 children in an urban resettlement colony in Delhi, India",
+        "dc:creator": "Basu S.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "439-444",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Maulana Azad Medical College",
+                "affiliation-city": "New Delhi",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047295290"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047295290?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047295290&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047295290&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047295290",
+        "dc:identifier": "SCOPUS_ID:85047295290",
+        "eid": "2-s2.0-85047295290",
+        "dc:title": "A cross sectional study on visual health among women aged 18-59 years residing in a slum of Kolkata, West Bengal",
+        "dc:creator": "Sembiah S.",
+        "prism:publicationName": "Indian Journal of Community Health",
+        "prism:issn": "09717587",
+        "prism:eIssn": "22489509",
+        "prism:volume": "29",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "363-368",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "All India Institute of Hygiene and Public Health",
+                "affiliation-city": "Kolkata",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100203118",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047115176"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85047115176?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85047115176&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85047115176&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85047115176",
+        "dc:identifier": "SCOPUS_ID:85047115176",
+        "eid": "2-s2.0-85047115176",
+        "dc:title": "Magnetic and Electrical Performance of Atomic Layer Deposited Iron Erbium Oxide Thin Films",
+        "dc:creator": "Tamm A.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "8836-8842",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01394",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Tartu Ülikool",
+                "affiliation-city": "Tartu",
+                "affiliation-country": "Estonia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046459214"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046459214?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85046459214&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85046459214&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85046459214",
+        "dc:identifier": "SCOPUS_ID:85046459214",
+        "eid": "2-s2.0-85046459214",
+        "dc:title": "Supramolecular Dye Aggregate Assembly Enables Ratiometric Detection and Discrimination of Lysine and Arginine in Aqueous Solution",
+        "dc:creator": "Pettiwala A.M.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "8779-8787",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01546",
+        "citedby-count": "48",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Bhabha Atomic Research Centre",
+                "affiliation-city": "Mumbai",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046287687"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85046287687?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85046287687&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85046287687&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85046287687",
+        "dc:identifier": "SCOPUS_ID:85046287687",
+        "eid": "2-s2.0-85046287687",
+        "dc:title": "Efficiency of indolebutyric acid and different substrates in yerba mate cuttings",
+        "dc:creator": "Teixeira M.",
+        "prism:publicationName": "Iheringia - Serie Botanica",
+        "prism:issn": "00734705",
+        "prism:eIssn": "24468231",
+        "prism:volume": "72",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "388-393",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.21826/2446-8231201772308",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universidade do Vale do Taquari - Univates",
+                "affiliation-city": "Lajeado",
+                "affiliation-country": "Brazil"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19800188009",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045961013"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045961013?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045961013&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045961013&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045961013",
+        "dc:identifier": "SCOPUS_ID:85045961013",
+        "eid": "2-s2.0-85045961013",
+        "dc:title": "Monodispersed Ru Nanoparticles Functionalized Graphene Nanosheets as Efficient Cathode Catalysts for O<inf>2</inf>-Assisted Li-CO<inf>2</inf> Battery",
+        "dc:creator": "Wang L.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "9280-9286",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01495",
+        "citedby-count": "64",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Nanjing University of Information Science &amp; Technology",
+                "affiliation-city": "Nanjing",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "National University of Singapore",
+                "affiliation-city": "Singapore City",
+                "affiliation-country": "Singapore"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045957289"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045957289?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045957289&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045957289&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2468601817301347"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045957289",
+        "dc:identifier": "SCOPUS_ID:85045957289",
+        "eid": "2-s2.0-85045957289",
+        "dc:title": "System identification through online sparse Gaussian process regression with input noise",
+        "dc:creator": "Bijl H.",
+        "prism:publicationName": "IFAC Journal of Systems and Control",
+        "prism:eIssn": "24686018",
+        "prism:volume": "2",
+        "prism:pageRange": "1-11",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.ifacsc.2017.09.001",
+        "pii": "S2468601817301347",
+        "citedby-count": "30",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Delft Center for Systems and Control",
+                "affiliation-city": "Delft",
+                "affiliation-country": "Netherlands"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101063736",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045719299"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045719299?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045719299&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045719299&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045719299",
+        "dc:identifier": "SCOPUS_ID:85045719299",
+        "eid": "2-s2.0-85045719299",
+        "dc:title": "Pollution Withstand Voltage Characteristics of Y-shape Insulator String on UHVAC Transmission Lines",
+        "dc:creator": "Xu T.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "4112-4116",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127039",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "China Electric Power Research Institute",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045719125"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045719125?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045719125&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045719125&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045719125",
+        "dc:identifier": "SCOPUS_ID:85045719125",
+        "eid": "2-s2.0-85045719125",
+        "dc:title": "Mechanism Analysis of Benzene Catalytic Oxidation Using Plasma Reactor with Micro-level Noble Catalysts",
+        "dc:creator": "Yao S.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3973-3980",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127021",
+        "citedby-count": "10",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Zhejiang Gongshang University",
+                "affiliation-city": "Hangzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045718503"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045718503?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045718503&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045718503&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045718503",
+        "dc:identifier": "SCOPUS_ID:85045718503",
+        "eid": "2-s2.0-85045718503",
+        "dc:title": "Effects of Improving Hydrophobicity of Heavily Contaminated Silicone Rubber Treated by Plasma Jet in He",
+        "dc:creator": "Zhang R.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3988-3993",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127023",
+        "citedby-count": "11",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Tsinghua University",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045718034"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045718034?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045718034&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045718034&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045718034",
+        "dc:identifier": "SCOPUS_ID:85045718034",
+        "eid": "2-s2.0-85045718034",
+        "dc:title": "Prediction of Transformer Top Oil Temperature Based on Kernel Extreme Learning Machine Error Prediction and Correction",
+        "dc:creator": "Li K.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "4045-4053",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127032",
+        "citedby-count": "26",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Shandong University",
+                "affiliation-city": "Jinan",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045717044"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045717044?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045717044&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045717044&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045717044",
+        "dc:identifier": "SCOPUS_ID:85045717044",
+        "eid": "2-s2.0-85045717044",
+        "dc:title": "Analysis of Insulation Methods to Reduce Influences of DC Grounding Electrode on Pipeline",
+        "dc:creator": "Meng X.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3900-3906",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127011",
+        "citedby-count": "17",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "China Southern Power Grid",
+                "affiliation-city": "Guangzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045716859"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045716859?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045716859&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045716859&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045716859",
+        "dc:identifier": "SCOPUS_ID:85045716859",
+        "eid": "2-s2.0-85045716859",
+        "dc:title": "Pollution Flashover Characteristic of Composite Insulator with Non-uniform Hydrophobicity Distribution on Surfaces",
+        "dc:creator": "Yu X.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3892-3899",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127010",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Xi'an Jiaotong University",
+                "affiliation-city": "Xi'an",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "China Electric Power Research Institute",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045715841"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045715841?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045715841&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045715841&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045715841",
+        "dc:identifier": "SCOPUS_ID:85045715841",
+        "eid": "2-s2.0-85045715841",
+        "dc:title": "Measurement Method for Antenna Efficiency Based on Time &amp; Frequency Domain Measurement in Reverberation Chamber",
+        "dc:creator": "Zhou Z.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3994-3999",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127024",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Southeast University",
+                "affiliation-city": "Nanjing",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045714724"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045714724?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045714724&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045714724&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045714724",
+        "dc:identifier": "SCOPUS_ID:85045714724",
+        "eid": "2-s2.0-85045714724",
+        "dc:title": "Measurement and Frequency Analysis of Short Current and Its Ground Wire Shunting at Artificial Grounding Fault on AC and DC Transmission Lines",
+        "dc:creator": "Ma Y.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3914-3921",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127013",
+        "citedby-count": "5",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Yunnan Electric Power Research Institute",
+                "affiliation-city": "Kunming",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045714319"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045714319?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045714319&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045714319&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045714319",
+        "dc:identifier": "SCOPUS_ID:85045714319",
+        "eid": "2-s2.0-85045714319",
+        "dc:title": "Production and Characterization of Polyhydroxyalkanoate from Lignin Derivatives by Pandoraea sp. ISTKB",
+        "dc:creator": "Kumar M.",
+        "prism:publicationName": "ACS Omega",
+        "prism:eIssn": "24701343",
+        "prism:volume": "2",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "9156-9163",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1021/acsomega.7b01615",
+        "citedby-count": "94",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Jawaharlal Nehru University",
+                "affiliation-city": "New Delhi",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100828963",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045713988"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045713988?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045713988&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045713988&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045713988",
+        "dc:identifier": "SCOPUS_ID:85045713988",
+        "eid": "2-s2.0-85045713988",
+        "dc:title": "Effect of Equivalence Ratio on Flow Field and Combustion Characteristics of Plasma Ignition in Supersonic Combustor",
+        "dc:creator": "Dou Z.",
+        "prism:publicationName": "Gaodianya Jishu/High Voltage Engineering",
+        "prism:issn": "10036520",
+        "prism:volume": "43",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "3981-3987",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.13336/j.1003-6520.hve.20171127022",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Equipment Academy",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "83986",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

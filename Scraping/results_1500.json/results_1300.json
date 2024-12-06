@@ -1,0 +1,1596 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025075914"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025075914?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85025075914&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85025075914&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318302"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85025075914",
+        "dc:identifier": "SCOPUS_ID:85025075914",
+        "eid": "2-s2.0-85025075914",
+        "dc:title": "Wastewater contamination in Antarctic melt-water streams evidenced by virological and organic molecular markers",
+        "dc:creator": "Tort L.F.L.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "225-231",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.127",
+        "pii": "S0048969717318302",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universidad de la Republica",
+                "affiliation-city": "Montevideo",
+                "affiliation-country": "Uruguay"
+            }
+        ],
+        "pubmed-id": "28743008",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025073394"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025073394?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85025073394&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85025073394&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317588"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85025073394",
+        "dc:identifier": "SCOPUS_ID:85025073394",
+        "eid": "2-s2.0-85025073394",
+        "dc:title": "Impacts of the 2003 and 2015 summer heatwaves on permafrost-affected rock-walls in the Mont Blanc massif",
+        "dc:creator": "Ravanel L.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "132-143",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.055",
+        "pii": "S0048969717317588",
+        "citedby-count": "136",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université Savoie Mont Blanc",
+                "affiliation-city": "Chambery",
+                "affiliation-country": "France"
+            }
+        ],
+        "pubmed-id": "28735090",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025073099"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025073099?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85025073099&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85025073099&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317072"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85025073099",
+        "dc:identifier": "SCOPUS_ID:85025073099",
+        "eid": "2-s2.0-85025073099",
+        "dc:title": "Rodenticide incidents of exposure and adverse effects on non-raptor birds",
+        "dc:creator": "Vyas N.B.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "68-76",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.004",
+        "pii": "S0048969717317072",
+        "citedby-count": "17",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "USDA ARS Beltsville Agricultural Research Center",
+                "affiliation-city": "Beltsville",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "28735092",
+        "prism:aggregationType": "Journal",
+        "subtype": "no",
+        "subtypeDescription": "Note",
+        "source-id": "25349",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025072894"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85025072894?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85025072894&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85025072894&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S004896971731882X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85025072894",
+        "dc:identifier": "SCOPUS_ID:85025072894",
+        "eid": "2-s2.0-85025072894",
+        "dc:title": "Aged-engineered nanoparticles effect on sludge anaerobic digestion performance and associated microbial communities",
+        "dc:creator": "Eduok S.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "232-241",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.178",
+        "pii": "S004896971731882X",
+        "citedby-count": "57",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Uyo",
+                "affiliation-city": "Uyo",
+                "affiliation-country": "Nigeria"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Cranfield University",
+                "affiliation-city": "Cranfield",
+                "affiliation-country": "United Kingdom"
+            }
+        ],
+        "pubmed-id": "28746890",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024914164"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024914164?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024914164&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024914164&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S004896971731793X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024914164",
+        "dc:identifier": "SCOPUS_ID:85024914164",
+        "eid": "2-s2.0-85024914164",
+        "dc:title": "Effect of extracellular polymeric substance components on the sorption behavior of 2,2′,4,4′-tetrabromodiphenyl ether to soils: Kinetics and isotherms",
+        "dc:creator": "Liu G.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "144-152",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.089",
+        "pii": "S004896971731793X",
+        "citedby-count": "19",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Chinese Academy of Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Chinese Academy of Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28735091",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024908112"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024908112?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024908112&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024908112&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318211"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024908112",
+        "dc:identifier": "SCOPUS_ID:85024908112",
+        "eid": "2-s2.0-85024908112",
+        "dc:title": "Nitrogen losses and greenhouse gas emissions under different N and water management in a subtropical double-season rice cropping system",
+        "dc:creator": "Liang K.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "46-57",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.118",
+        "pii": "S0048969717318211",
+        "citedby-count": "78",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Guangdong Academy of Agricultural Sciences",
+                "affiliation-city": "Guangzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28734249",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024895343"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024895343?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024895343&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024895343&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318338"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024895343",
+        "dc:identifier": "SCOPUS_ID:85024895343",
+        "eid": "2-s2.0-85024895343",
+        "dc:title": "Effects of constructed wetland design on ibuprofen removal – A mesocosm scale study",
+        "dc:creator": "Zhang L.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "38-45",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.130",
+        "pii": "S0048969717318338",
+        "citedby-count": "73",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Aarhus Universitet",
+                "affiliation-city": "Aarhus",
+                "affiliation-country": "Denmark"
+            }
+        ],
+        "pubmed-id": "28734248",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024895019"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024895019?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024895019&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024895019&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318363"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024895019",
+        "dc:identifier": "SCOPUS_ID:85024895019",
+        "eid": "2-s2.0-85024895019",
+        "dc:title": "Seasonal variation in water uptake patterns of three plant species based on stable isotopes in the semi-arid Loess Plateau",
+        "dc:creator": "Wang J.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "27-37",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.133",
+        "pii": "S0048969717318363",
+        "citedby-count": "216",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Chinese Academy of Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Research Center for Eco-Environmental Sciences Chinese Academy of Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28734247",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024894728"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024894728?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024894728&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024894728&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318053"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024894728",
+        "dc:identifier": "SCOPUS_ID:85024894728",
+        "eid": "2-s2.0-85024894728",
+        "dc:title": "Biodeterioration of marble in an underwater environment",
+        "dc:creator": "Cámara B.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "109-122",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.103",
+        "pii": "S0048969717318053",
+        "citedby-count": "33",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "CSIC-UCM - Instituto de Geociencias (IGEO)",
+                "affiliation-city": "Madrid",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "pubmed-id": "28735089",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024884845"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024884845?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024884845&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024884845&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317771"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024884845",
+        "dc:identifier": "SCOPUS_ID:85024884845",
+        "eid": "2-s2.0-85024884845",
+        "dc:title": "Stability of cognitive development during the first five years of life in relation to heavy metal concentrations in umbilical cord blood: Mothers' and Children's Environmental Health (MOCEH) birth cohort study",
+        "dc:creator": "Lee H.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "153-159",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.074",
+        "pii": "S0048969717317771",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Hankyong National University",
+                "affiliation-city": "Anseong",
+                "affiliation-country": "South Korea"
+            }
+        ],
+        "pubmed-id": "28738198",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024877185"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024877185?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024877185&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024877185&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317497"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024877185",
+        "dc:identifier": "SCOPUS_ID:85024877185",
+        "eid": "2-s2.0-85024877185",
+        "dc:title": "Aging impacts of low molecular weight organic acids (LMWOAs) on furfural production residue-derived biochars: Porosity, functional properties, and inorganic minerals",
+        "dc:creator": "Liu G.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "607-608",
+        "prism:pageRange": "1428-1436",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.046",
+        "pii": "S0048969717317497",
+        "citedby-count": "75",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Ocean University of China",
+                "affiliation-city": "Qingdao",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28746993",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024876687"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024876687?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024876687&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024876687&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317886"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024876687",
+        "dc:identifier": "SCOPUS_ID:85024876687",
+        "eid": "2-s2.0-85024876687",
+        "dc:title": "Prenatal low-level phenol exposures and birth outcomes in China",
+        "dc:creator": "Ding G.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "607-608",
+        "prism:pageRange": "1400-1407",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.084",
+        "pii": "S0048969717317886",
+        "citedby-count": "46",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Tongji University School of Medicine",
+                "affiliation-city": "Shanghai",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Shanghai Jiao Tong University School of Medicine",
+                "affiliation-city": "Shanghai",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28738530",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024874689"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024874689?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024874689&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024874689&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717312925"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024874689",
+        "dc:identifier": "SCOPUS_ID:85024874689",
+        "eid": "2-s2.0-85024874689",
+        "dc:title": "Response of soil physicochemical properties and enzyme activities to long-term reclamation of coastal saline soil, Eastern China",
+        "dc:creator": "Xie X.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "607-608",
+        "prism:pageRange": "1419-1427",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.05.185",
+        "pii": "S0048969717312925",
+        "citedby-count": "188",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Nanjing University",
+                "affiliation-city": "Nanjing",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28738553",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024862360"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024862360?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024862360&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024862360&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318478"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024862360",
+        "dc:identifier": "SCOPUS_ID:85024862360",
+        "eid": "2-s2.0-85024862360",
+        "dc:title": "River sequesters atmospheric carbon and limits the CO<inf>2</inf> degassing in karst area, southwest China",
+        "dc:creator": "Zhang T.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "92-101",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.143",
+        "pii": "S0048969717318478",
+        "citedby-count": "52",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Southwest University",
+                "affiliation-city": "Chongqing",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Chinese Academy of Geological Sciences",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28734252",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024855456"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024855456?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024855456&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024855456&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318417"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024855456",
+        "dc:identifier": "SCOPUS_ID:85024855456",
+        "eid": "2-s2.0-85024855456",
+        "dc:title": "Climatic controls of ecohydrological responses in the highlands of northern Ethiopia",
+        "dc:creator": "Tesfaye S.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "77-91",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.138",
+        "pii": "S0048969717318417",
+        "citedby-count": "18",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Mekelle University",
+                "affiliation-city": "Makale",
+                "affiliation-country": "Ethiopia"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Wageningen University &amp; Research",
+                "affiliation-city": "Wageningen",
+                "affiliation-country": "Netherlands"
+            }
+        ],
+        "pubmed-id": "28734251",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024851978"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024851978?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024851978&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024851978&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317710"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024851978",
+        "dc:identifier": "SCOPUS_ID:85024851978",
+        "eid": "2-s2.0-85024851978",
+        "dc:title": "Surface complexation modeling of Cu(II) sorption to montmorillonite–bacteria composites",
+        "dc:creator": "Qu C.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "607-608",
+        "prism:pageRange": "1408-1418",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.068",
+        "pii": "S0048969717317710",
+        "citedby-count": "25",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Huazhong Agricultural University",
+                "affiliation-city": "Wuhan",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28738531",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024851417"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024851417?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024851417&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024851417&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318521"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024851417",
+        "dc:identifier": "SCOPUS_ID:85024851417",
+        "eid": "2-s2.0-85024851417",
+        "dc:title": "Excessive application of pig manure increases the risk of P loss in calcic cinnamon soil in China",
+        "dc:creator": "Yang Y.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "102-108",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.149",
+        "pii": "S0048969717318521",
+        "citedby-count": "35",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Hunan Agricultural University",
+                "affiliation-city": "Changsha",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Yangzhou University",
+                "affiliation-city": "Yangzhou",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28735088",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024848148"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024848148?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024848148&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024848148&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318399"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024848148",
+        "dc:identifier": "SCOPUS_ID:85024848148",
+        "eid": "2-s2.0-85024848148",
+        "dc:title": "Assessment of direct exposure and leaching risk from PAHs in roadway and stormwater system residuals",
+        "dc:creator": "Azah E.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "58-67",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.136",
+        "pii": "S0048969717318399",
+        "citedby-count": "27",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Herbert Wertheim College of Engineering",
+                "affiliation-city": "Gainesville",
+                "affiliation-country": "United States"
+            }
+        ],
+        "pubmed-id": "28734250",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024835327"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024835327?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024835327&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024835327&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317230"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024835327",
+        "dc:identifier": "SCOPUS_ID:85024835327",
+        "eid": "2-s2.0-85024835327",
+        "dc:title": "Nitrogen-functionalization biochars derived from wheat straws via molten salt synthesis: An efficient adsorbent for atrazine removal",
+        "dc:creator": "Yang F.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "607-608",
+        "prism:pageRange": "1391-1399",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.020",
+        "pii": "S0048969717317230",
+        "citedby-count": "87",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Northeast Agricultural University",
+                "affiliation-city": "Harbin",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Northeast Agticultural University",
+                "affiliation-city": "Harbin",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28738529",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024505130"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024505130?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024505130&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024505130&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317655"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024505130",
+        "dc:identifier": "SCOPUS_ID:85024505130",
+        "eid": "2-s2.0-85024505130",
+        "dc:title": "Quantifying deforestation and forest degradation with thermal response",
+        "dc:creator": "Lin H.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "607-608",
+        "prism:pageRange": "1286-1292",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.062",
+        "pii": "S0048969717317655",
+        "citedby-count": "15",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Xishuangbanna Tropical Botanical Garden Chinese Academy of Sciences",
+                "affiliation-city": "Mengla",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28732406",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024504272"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024504272?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024504272&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024504272&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S004896971731834X"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024504272",
+        "dc:identifier": "SCOPUS_ID:85024504272",
+        "eid": "2-s2.0-85024504272",
+        "dc:title": "Comments on “Radiofrequency electromagnetic fields and some cancers of unknown etiology: An ecological study”",
+        "dc:creator": "Mortazavi S.A.R.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "1",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.131",
+        "pii": "S004896971731834X",
+        "citedby-count": "10",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "School of Medicine",
+                "affiliation-city": "Shiraz",
+                "affiliation-country": "Iran"
+            }
+        ],
+        "pubmed-id": "28732291",
+        "prism:aggregationType": "Journal",
+        "subtype": "le",
+        "subtypeDescription": "Letter",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024504137"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024504137?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024504137&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024504137&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317333"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024504137",
+        "dc:identifier": "SCOPUS_ID:85024504137",
+        "eid": "2-s2.0-85024504137",
+        "dc:title": "Increased N<inf>2</inf>O emission by inhibited plant growth in the CO<inf>2</inf> leaked soil environment: Simulation of CO<inf>2</inf> leakage from carbon capture and storage (CCS) site",
+        "dc:creator": "Kim Y.J.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "607-608",
+        "prism:pageRange": "1278-1285",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.030",
+        "pii": "S0048969717317333",
+        "citedby-count": "23",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kyung Hee University",
+                "affiliation-city": "Seoul",
+                "affiliation-country": "South Korea"
+            }
+        ],
+        "pubmed-id": "28732405",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024488217"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024488217?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024488217&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024488217&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717317977"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024488217",
+        "dc:identifier": "SCOPUS_ID:85024488217",
+        "eid": "2-s2.0-85024488217",
+        "dc:title": "Taxonomy- or trait-based ecological assessment for tropical rivers? Case study on benthic diatoms in Mayotte island (France, Indian Ocean)",
+        "dc:creator": "Tapolczai K.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "607-608",
+        "prism:pageRange": "1293-1303",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.093",
+        "pii": "S0048969717317977",
+        "citedby-count": "35",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Centre Alpin de Recherche sur les Réseaux Trophiques et les Ecosystèmes limniques (CARRTEL)",
+                "affiliation-city": "Thonon-les-Bains",
+                "affiliation-country": "France"
+            }
+        ],
+        "pubmed-id": "28738506",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024486811"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024486811?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024486811&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024486811&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318065"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024486811",
+        "dc:identifier": "SCOPUS_ID:85024486811",
+        "eid": "2-s2.0-85024486811",
+        "dc:title": "Soil bacterial community response to vegetation succession after fencing in the grassland of China",
+        "dc:creator": "Zeng Q.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "2-10",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.102",
+        "pii": "S0048969717318065",
+        "citedby-count": "163",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Northwest A&amp;F University",
+                "affiliation-city": "Yangling",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28732294",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024485892"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85024485892?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85024485892&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85024485892&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "full-text",
+                "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0048969717318442"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85024485892",
+        "dc:identifier": "SCOPUS_ID:85024485892",
+        "eid": "2-s2.0-85024485892",
+        "dc:title": "Influence of rainfall duration and intensity on particulate matter removal from plant leaves",
+        "dc:creator": "Xu X.",
+        "prism:publicationName": "Science of the Total Environment",
+        "prism:issn": "00489697",
+        "prism:eIssn": "18791026",
+        "prism:volume": "609",
+        "prism:pageRange": "11-16",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1016/j.scitotenv.2017.07.141",
+        "pii": "S0048969717318442",
+        "citedby-count": "93",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Beijing Forestry University",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "China-ASEAN Environmental Cooperation Center",
+                "affiliation-city": "Beijing",
+                "affiliation-country": "China"
+            }
+        ],
+        "pubmed-id": "28732292",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "25349",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

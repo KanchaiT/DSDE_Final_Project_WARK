@@ -1,0 +1,1536 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85005949183"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85005949183?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85005949183&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85005949183&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85005949183",
+        "dc:identifier": "SCOPUS_ID:85005949183",
+        "eid": "2-s2.0-85005949183",
+        "dc:title": "Affinity-based thread and data mapping in shared memory systems",
+        "dc:creator": "Diener M.",
+        "prism:publicationName": "ACM Computing Surveys",
+        "prism:issn": "03600300",
+        "prism:eIssn": "15577341",
+        "prism:volume": "49",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "December 2016",
+        "prism:doi": "10.1145/3006385",
+        "citedby-count": "31",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universidade Federal do Rio Grande do Sul",
+                "affiliation-city": "Porto Alegre",
+                "affiliation-country": "Brazil"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "64",
+        "source-id": "23038",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84953277611"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84953277611?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84953277611&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84953277611&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84953277611",
+        "dc:identifier": "SCOPUS_ID:84953277611",
+        "eid": "2-s2.0-84953277611",
+        "dc:title": "Clinical, haematological and therapeutic studies on babesiosis in Arabian horses in the Qassim region, central of Saudi Arabia",
+        "dc:creator": "Osman S.A.",
+        "prism:publicationName": "Journal of Applied Animal Research",
+        "prism:issn": "09712119",
+        "prism:eIssn": "09741844",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "118-121",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/09712119.2015.1124339",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Faculty of Veteinary Medicine",
+                "affiliation-city": "Kafr el-Sheikh",
+                "affiliation-country": "Egypt"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Qassim University",
+                "affiliation-city": "Al-Mulida",
+                "affiliation-country": "Saudi Arabia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22533",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84953245964"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84953245964?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84953245964&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84953245964&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84953245964",
+        "dc:identifier": "SCOPUS_ID:84953245964",
+        "eid": "2-s2.0-84953245964",
+        "dc:title": "The application of probiotics and flaxseed promotes metabolism of n-3 polyunsaturated fatty acids in pigs",
+        "dc:creator": "Sopková D.",
+        "prism:publicationName": "Journal of Applied Animal Research",
+        "prism:issn": "09712119",
+        "prism:eIssn": "09741844",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "93-98",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/09712119.2015.1124333",
+        "citedby-count": "19",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Veterinary University Medicine in Kosice",
+                "affiliation-city": "Kosice",
+                "affiliation-country": "Slovakia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22533",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84953227820"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84953227820?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84953227820&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84953227820&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84953227820",
+        "dc:identifier": "SCOPUS_ID:84953227820",
+        "eid": "2-s2.0-84953227820",
+        "dc:title": "The effect of soybean meal replacement with raw full-fat soybean in diets for broiler chickens",
+        "dc:creator": "Rada V.",
+        "prism:publicationName": "Journal of Applied Animal Research",
+        "prism:issn": "09712119",
+        "prism:eIssn": "09741844",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "112-117",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/09712119.2015.1124337",
+        "citedby-count": "19",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Mendelova Univerzita v Brně",
+                "affiliation-city": "Brno",
+                "affiliation-country": "Czech Republic"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22533",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952673457"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952673457?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84952673457&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84952673457&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84952673457",
+        "dc:identifier": "SCOPUS_ID:84952673457",
+        "eid": "2-s2.0-84952673457",
+        "dc:title": "Haematological changes in albino wister rats exposed to sub-chronic administration of sub-lethal doses of Zamitraz® (12.5% amitraz)",
+        "dc:creator": "Omoja V.",
+        "prism:publicationName": "Journal of Applied Animal Research",
+        "prism:issn": "09712119",
+        "prism:eIssn": "09741844",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "76-79",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/09712119.2015.1124331",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Nigeria",
+                "affiliation-city": "Naukka",
+                "affiliation-country": "Nigeria"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22533",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherhybridgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Hybrid Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952659966"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952659966?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84952659966&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84952659966&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84952659966",
+        "dc:identifier": "SCOPUS_ID:84952659966",
+        "eid": "2-s2.0-84952659966",
+        "dc:title": "In vitro binding capacity of organic (Wheat bran and rice bran) and inorganic (perlite) sources for Mn, Zn, Cu, and Fe",
+        "dc:creator": "Ghodrat A.",
+        "prism:publicationName": "Journal of Applied Animal Research",
+        "prism:issn": "09712119",
+        "prism:eIssn": "09741844",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "80-84",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/09712119.2015.1124338",
+        "citedby-count": "18",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Islamic Azad University, Shabestar Branch",
+                "affiliation-city": "Shabestar",
+                "affiliation-country": "Iran"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22533",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952653446"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952653446?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84952653446&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84952653446&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84952653446",
+        "dc:identifier": "SCOPUS_ID:84952653446",
+        "eid": "2-s2.0-84952653446",
+        "dc:title": "Effect of seasonal variations on the haematochemical profile of Cholistani service bulls",
+        "dc:creator": "Farooq U.",
+        "prism:publicationName": "Journal of Applied Animal Research",
+        "prism:issn": "09712119",
+        "prism:eIssn": "09741844",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "85-89",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/09712119.2015.1125351",
+        "citedby-count": "20",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "The Islamia University of Bahawalpur",
+                "affiliation-city": "Bahawalpur",
+                "affiliation-country": "Pakistan"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22533",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952645905"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84952645905?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84952645905&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84952645905&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84952645905",
+        "dc:identifier": "SCOPUS_ID:84952645905",
+        "eid": "2-s2.0-84952645905",
+        "dc:title": "Evaluation of supplemental vitamin E on 56-day feedlot growth performance and plasma tocopherol concentrations in calf-fed Holstein steers",
+        "dc:creator": "Cano A.B.",
+        "prism:publicationName": "Journal of Applied Animal Research",
+        "prism:issn": "09712119",
+        "prism:eIssn": "09741844",
+        "prism:volume": "45",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "90-92",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1080/09712119.2015.1129340",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universidad Autónoma de Baja California",
+                "affiliation-city": "Mexicali",
+                "affiliation-country": "Mexico"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "22533",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165679383"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165679383?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85165679383&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85165679383&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85165679383",
+        "dc:identifier": "SCOPUS_ID:85165679383",
+        "eid": "2-s2.0-85165679383",
+        "dc:title": "O DIJAKRONIJSKOJ SLAVENSKOJ SINTAKSI – TREĆI PUT",
+        "dc:creator": "Kovačević A.",
+        "prism:publicationName": "Slovo (Croatia)",
+        "prism:issn": "05836255",
+        "prism:volume": "2017",
+        "prism:issueIdentifier": "67",
+        "prism:pageRange": "221-222",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "5800209720",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165666704"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165666704?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85165666704&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85165666704&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85165666704",
+        "dc:identifier": "SCOPUS_ID:85165666704",
+        "eid": "2-s2.0-85165666704",
+        "dc:title": "MEĐUNARODNI ZNANSTVENI SKUP FENOMEN GLAGOLJICE",
+        "dc:creator": "Požar S.",
+        "prism:publicationName": "Slovo (Croatia)",
+        "prism:issn": "05836255",
+        "prism:volume": "2017",
+        "prism:issueIdentifier": "67",
+        "prism:pageRange": "218-221",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "5800209720",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165660269"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165660269?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85165660269&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85165660269&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85165660269",
+        "dc:identifier": "SCOPUS_ID:85165660269",
+        "eid": "2-s2.0-85165660269",
+        "dc:title": "MILAN MIHALJEVIĆ – DOBITNIK DRŽAVNE NAGRADE ZA ZNANOST ZA 2015. GODINU",
+        "dc:creator": "ŠIMIĆ M.",
+        "prism:publicationName": "Slovo (Croatia)",
+        "prism:issn": "05836255",
+        "prism:volume": "2017",
+        "prism:issueIdentifier": "67",
+        "prism:pageRange": "214-215",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "5800209720",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165629185"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165629185?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85165629185&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85165629185&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85165629185",
+        "dc:identifier": "SCOPUS_ID:85165629185",
+        "eid": "2-s2.0-85165629185",
+        "dc:title": "ANA KOVAČEVIĆ – DOBITNICA GODIŠNJE NAGRADE HRVATSKE AKADEMIJE ZNANOSTI I UMJETNOSTI",
+        "dc:creator": "Požar S.",
+        "prism:publicationName": "Slovo (Croatia)",
+        "prism:issn": "05836255",
+        "prism:volume": "2017",
+        "prism:issueIdentifier": "67",
+        "prism:pageRange": "216-217",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "5800209720",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85127260919"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85127260919?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85127260919&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85127260919&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85127260919",
+        "dc:identifier": "SCOPUS_ID:85127260919",
+        "eid": "2-s2.0-85127260919",
+        "dc:title": "Mechanized Pelagic Fishing in Bangladesh: Challenges and Opportunities",
+        "dc:creator": "Dey P.",
+        "prism:publicationName": "Journal of Maritime Research",
+        "prism:issn": "16974840",
+        "prism:eIssn": "16979133",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "39-43",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universidad de Cantabria",
+                "affiliation-city": "Santander",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19600161820",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85117867606"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85117867606?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85117867606&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85117867606&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85117867606",
+        "dc:identifier": "SCOPUS_ID:85117867606",
+        "eid": "2-s2.0-85117867606",
+        "dc:title": "A note on the balto-slavic and indo-european background of the proto-slavic adjective *svętъ 'holy'",
+        "dc:creator": "Majer M.",
+        "prism:publicationName": "Studia Ceranea",
+        "prism:issn": "2084140X",
+        "prism:eIssn": "24498378",
+        "prism:volume": "7",
+        "prism:pageRange": "139-149",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "prism:doi": "10.18778/2084-140X.07.09",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Harvard University",
+                "affiliation-city": "Cambridge",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101000286",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85117867555"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85117867555?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85117867555&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85117867555&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85117867555",
+        "dc:identifier": "SCOPUS_ID:85117867555",
+        "eid": "2-s2.0-85117867555",
+        "dc:title": "The trisagion riots (512) as an example of interaction between politics and liturgy",
+        "dc:creator": "Ginter K.",
+        "prism:publicationName": "Studia Ceranea",
+        "prism:issn": "2084140X",
+        "prism:eIssn": "24498378",
+        "prism:volume": "7",
+        "prism:pageRange": "41-57",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "prism:doi": "10.18778/2084-140X.07.03",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pontificia Università della Santa Croce",
+                "affiliation-city": "Rome",
+                "affiliation-country": "Italy"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101000286",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85117867514"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85117867514?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85117867514&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85117867514&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85117867514",
+        "dc:identifier": "SCOPUS_ID:85117867514",
+        "eid": "2-s2.0-85117867514",
+        "dc:title": "The byzantine office of EΠI ΤΩΝ ΚΡΊΣΕΩΝ and its holders (in the light of sphragistic evidence and written sources)",
+        "dc:creator": "Antonov S.",
+        "prism:publicationName": "Studia Ceranea",
+        "prism:issn": "2084140X",
+        "prism:eIssn": "24498378",
+        "prism:volume": "7",
+        "prism:pageRange": "9-25",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "prism:doi": "10.18778/2084-140X.07.01",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "St. Cyril and St. Methodius University of Veliko Tarnovo",
+                "affiliation-city": "Veliko Tarnovo",
+                "affiliation-country": "Bulgaria"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101000286",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85117866363"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85117866363?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85117866363&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85117866363&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85117866363",
+        "dc:identifier": "SCOPUS_ID:85117866363",
+        "eid": "2-s2.0-85117866363",
+        "dc:title": "Languages and their registers in medieval croatian culture",
+        "dc:creator": "Kapetanović A.",
+        "prism:publicationName": "Studia Ceranea",
+        "prism:issn": "2084140X",
+        "prism:eIssn": "24498378",
+        "prism:volume": "7",
+        "prism:pageRange": "79-98",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "prism:doi": "10.18778/2084-140X.07.05",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Croatian Language and Linguistics",
+                "affiliation-city": "Zagreb",
+                "affiliation-country": "Croatia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101000286",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85116399309"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85116399309?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85116399309&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85116399309&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85116399309",
+        "dc:identifier": "SCOPUS_ID:85116399309",
+        "eid": "2-s2.0-85116399309",
+        "dc:title": "Built to last? The changing role of ocean transportation intermediaries: Disintermediation and reintermediation",
+        "dc:creator": "Clott C.B.",
+        "prism:publicationName": "Journal of Maritime Research",
+        "prism:issn": "16974840",
+        "prism:eIssn": "16979133",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "79-88",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "State University of New York System",
+                "affiliation-city": "Albany",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19600161820",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85116072946"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85116072946?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85116072946&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85116072946&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85116072946",
+        "dc:identifier": "SCOPUS_ID:85116072946",
+        "eid": "2-s2.0-85116072946",
+        "dc:title": "Development of economical overload detection system for maritime vehicles in Bangladesh",
+        "dc:creator": "Siddique I.J.",
+        "prism:publicationName": "Journal of Maritime Research",
+        "prism:issn": "16974840",
+        "prism:eIssn": "16979133",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "75-78",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "International Islamic University Malaysia",
+                "affiliation-city": "Kuala Lumpur",
+                "affiliation-country": "Malaysia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19600161820",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85116015995"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85116015995?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85116015995&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85116015995&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85116015995",
+        "dc:identifier": "SCOPUS_ID:85116015995",
+        "eid": "2-s2.0-85116015995",
+        "dc:title": "Numerical study on influence of hydrofoil clearance towards total drag reduction on winged air induction pipe for air lubrication",
+        "dc:creator": "Yanuar ",
+        "prism:publicationName": "Journal of Maritime Research",
+        "prism:issn": "16974840",
+        "prism:eIssn": "16979133",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "68-74",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universitas Indonesia",
+                "affiliation-city": "Depok",
+                "affiliation-country": "Indonesia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19600161820",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115884317"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115884317?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85115884317&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85115884317&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85115884317",
+        "dc:identifier": "SCOPUS_ID:85115884317",
+        "eid": "2-s2.0-85115884317",
+        "dc:title": "Estimation of cargo demand at major seaports in india",
+        "dc:creator": "Sahu P.K.",
+        "prism:publicationName": "Journal of Maritime Research",
+        "prism:issn": "16974840",
+        "prism:eIssn": "16979133",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "8-15",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Birla Institute of Technology and Science, Pilani",
+                "affiliation-city": "Pilani",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19600161820",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115876691"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115876691?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85115876691&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85115876691&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85115876691",
+        "dc:identifier": "SCOPUS_ID:85115876691",
+        "eid": "2-s2.0-85115876691",
+        "dc:title": "Legal issues concerning the un convention on the conditions for registration of ships (1986)",
+        "dc:creator": "Lapa K.",
+        "prism:publicationName": "Journal of Maritime Research",
+        "prism:issn": "16974840",
+        "prism:eIssn": "16979133",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "3-7",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "prism:doi": "10.1201/9781315099088-68",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University “Ismail Qemali” Vlore",
+                "affiliation-city": "Vlora",
+                "affiliation-country": "Albania"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19600161820",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115866331"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115866331?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85115866331&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85115866331&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85115866331",
+        "dc:identifier": "SCOPUS_ID:85115866331",
+        "eid": "2-s2.0-85115866331",
+        "dc:title": "Steps in setting-up of two centers for marine renewables within a romanian-bulgarian cross-border cooperation",
+        "dc:creator": "Memet F.",
+        "prism:publicationName": "Journal of Maritime Research",
+        "prism:issn": "16974840",
+        "prism:eIssn": "16979133",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "52-55",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universitatea Maritima din Constanta",
+                "affiliation-city": "Constanta",
+                "affiliation-country": "Romania"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19600161820",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115853831"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115853831?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85115853831&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85115853831&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85115853831",
+        "dc:identifier": "SCOPUS_ID:85115853831",
+        "eid": "2-s2.0-85115853831",
+        "dc:title": "Environmental sensitivity indexes in oil hydrocarbons: Its application in siroco",
+        "dc:creator": "Calvilla J.M.",
+        "prism:publicationName": "Journal of Maritime Research",
+        "prism:issn": "16974840",
+        "prism:eIssn": "16979133",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "16-23",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universidad de la Laguna",
+                "affiliation-city": "San Cristobal de La Laguna",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19600161820",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115837019"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115837019?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85115837019&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85115837019&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85115837019",
+        "dc:identifier": "SCOPUS_ID:85115837019",
+        "eid": "2-s2.0-85115837019",
+        "dc:title": "A new approach to assessing port infrastructure resilience to climate risks and adaptive solutions prioritization",
+        "dc:creator": "Mutombo K.",
+        "prism:publicationName": "Journal of Maritime Research",
+        "prism:issn": "16974840",
+        "prism:eIssn": "16979133",
+        "prism:volume": "14",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "56-67",
+        "prism:coverDate": "2017-12-30",
+        "prism:coverDisplayDate": "30 December 2017",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "World Maritime University",
+                "affiliation-city": "Malmo",
+                "affiliation-country": "Sweden"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19600161820",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

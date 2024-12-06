@@ -1,0 +1,1377 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120837139"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120837139?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120837139&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120837139&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120837139",
+        "dc:identifier": "SCOPUS_ID:85120837139",
+        "eid": "2-s2.0-85120837139",
+        "dc:title": "The Egyptian Execration Statuettes (EES) Project",
+        "dc:creator": "Van der Perre A.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "667-670",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.123",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "KU Leuven",
+                "affiliation-city": "Leuven",
+                "affiliation-country": "Belgium"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120837126"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120837126?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120837126&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120837126&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120837126",
+        "dc:identifier": "SCOPUS_ID:85120837126",
+        "eid": "2-s2.0-85120837126",
+        "dc:title": "3D-Reconstructions of Late Roman fortresses in Egypt",
+        "dc:creator": "Karelin D.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "718-719",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.134",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Moscow Architectural Institute",
+                "affiliation-city": "Moscow",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836870"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836870?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120836870&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120836870&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120836870",
+        "dc:identifier": "SCOPUS_ID:85120836870",
+        "eid": "2-s2.0-85120836870",
+        "dc:title": "The cat mummies of the Società Africana d'Italia: An archaeological, cultural and religious perspective",
+        "dc:creator": "Pubblico M.D.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "532-537",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.99",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Naples 'L'Orientale'",
+                "affiliation-city": "Naples",
+                "affiliation-country": "Italy"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836674"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836674?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120836674&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120836674&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120836674",
+        "dc:identifier": "SCOPUS_ID:85120836674",
+        "eid": "2-s2.0-85120836674",
+        "dc:title": "Predynastic precursors to the Festival of Drunkenness: Beer, climate change, cow-goddesses, and the ideology of kingship",
+        "dc:creator": "Jensen V.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "296-302",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.57",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of California, Berkeley",
+                "affiliation-city": "Berkeley",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836654"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836654?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120836654&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120836654&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120836654",
+        "dc:identifier": "SCOPUS_ID:85120836654",
+        "eid": "2-s2.0-85120836654",
+        "dc:title": "The Herakleopolis Magna Project: Seasons 2012-2015",
+        "dc:creator": "Pérez-Die M.C.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "480-484",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.91",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "CSIC - Museo Nacional de Ciencias Naturales (MNCN)",
+                "affiliation-city": "Madrid",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836610"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836610?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120836610&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120836610&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120836610",
+        "dc:identifier": "SCOPUS_ID:85120836610",
+        "eid": "2-s2.0-85120836610",
+        "dc:title": "Chapel of the tomb belonging to Amenhotep III's Vizier, Amenhotep Huy. Asasif Tomb No. 28, Luxor-West Bank. Excavation results: 'Vizier Amenhotep Huy Project' (2009-2014)",
+        "dc:creator": "Martin-Valentin F.J.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "377-383",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.72",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Instituto de Estudios del Antiguo Egipto (I.E.A.E.)",
+                "affiliation-city": "Madrid",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836155"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836155?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120836155&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120836155&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120836155",
+        "dc:identifier": "SCOPUS_ID:85120836155",
+        "eid": "2-s2.0-85120836155",
+        "dc:title": "The lost chapels of Elephantine. Preliminary results of a reconstruction study through archival documents",
+        "dc:creator": "Salvoldi D.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "556-562",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.104",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Freie Universität Berlin",
+                "affiliation-city": "Berlin",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836106"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836106?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120836106&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120836106&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120836106",
+        "dc:identifier": "SCOPUS_ID:85120836106",
+        "eid": "2-s2.0-85120836106",
+        "dc:title": "Study and restoration of two mummies from the Moulins Museum",
+        "dc:creator": "Timbart N.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "729-730",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.140",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Centre de Recherche et de Restauration des Musées de France (C2RMF)",
+                "affiliation-city": "Versailles Cedex, Paris",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836065"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836065?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120836065&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120836065&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120836065",
+        "dc:identifier": "SCOPUS_ID:85120836065",
+        "eid": "2-s2.0-85120836065",
+        "dc:title": "Love and gold in cross-cultural discourse in the Amarna letters",
+        "dc:creator": "Singer G.G.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "233-236",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.45",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pontificia Universidad Catolica Argentina",
+                "affiliation-city": "Buenos Aires",
+                "affiliation-country": "Argentina"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836000"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120836000?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120836000&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120836000&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120836000",
+        "dc:identifier": "SCOPUS_ID:85120836000",
+        "eid": "2-s2.0-85120836000",
+        "dc:title": "The function and importance of some special categories of stars in the Ancient Egyptian funerary texts, 1: - and -stars",
+        "dc:creator": "Maravelia A.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "368-376",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.71",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "National and Kapodistrian University of Athens",
+                "affiliation-city": "Athens",
+                "affiliation-country": "Greece"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835991"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835991?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835991&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835991&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835991",
+        "dc:identifier": "SCOPUS_ID:85120835991",
+        "eid": "2-s2.0-85120835991",
+        "dc:title": "The transformation of Theban Tomb 39 (TT39). A contribution from a conservation viewpoint in terms of its history after dynastic occupation",
+        "dc:creator": "Grimaldi D.M.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "247-253",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.48",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Instituto Nacional de Antropología e Historia, Mexico",
+                "affiliation-city": "Mexico",
+                "affiliation-country": "Mexico"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835987"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835987?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835987&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835987&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835987",
+        "dc:identifier": "SCOPUS_ID:85120835987",
+        "eid": "2-s2.0-85120835987",
+        "dc:title": "Preface",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "xiii",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.4",
+        "citedby-count": "0",
+        "prism:aggregationType": "Book",
+        "subtype": "ed",
+        "subtypeDescription": "Editorial",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835941"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835941?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835941&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835941&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835941",
+        "dc:identifier": "SCOPUS_ID:85120835941",
+        "eid": "2-s2.0-85120835941",
+        "dc:title": "You up - I down: Orientational metaphors concerning ancient Egyptian Kingship in royal iconography and",
+        "dc:creator": "Hsu S.W.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "283-286",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.54",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Nankai University",
+                "affiliation-city": "Tianjin",
+                "affiliation-country": "China"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835910"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835910?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835910&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835910&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835910",
+        "dc:identifier": "SCOPUS_ID:85120835910",
+        "eid": "2-s2.0-85120835910",
+        "dc:title": "Animal mummies in South African collections",
+        "dc:creator": "Cornelius I.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "131-136",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.27",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Stellenbosch University",
+                "affiliation-city": "Stellenbosch",
+                "affiliation-country": "South Africa"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835866"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835866?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835866&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835866&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835866",
+        "dc:identifier": "SCOPUS_ID:85120835866",
+        "eid": "2-s2.0-85120835866",
+        "dc:title": "Middle Kingdom coffin of Khnum from the National Museum of Warsaw",
+        "dc:creator": "Czerwik D.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "148-153",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.30",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Warsaw",
+                "affiliation-city": "Warsaw",
+                "affiliation-country": "Poland"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835856"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835856?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835856&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835856&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835856",
+        "dc:identifier": "SCOPUS_ID:85120835856",
+        "eid": "2-s2.0-85120835856",
+        "dc:title": "Hieroglyphic inscriptions on precious objects: Some notes on the correlation between text and support",
+        "dc:creator": "Iob A.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "291-295",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.56",
+        "citedby-count": "0",
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835853"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835853?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835853&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835853&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835853",
+        "dc:identifier": "SCOPUS_ID:85120835853",
+        "eid": "2-s2.0-85120835853",
+        "dc:title": "Some remarks on the Egyptian reception of foreign military technology during the 18th Dynasty: A brief survey of the armour",
+        "dc:creator": "Pollastrini A.M.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "513-518",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.96",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "École Pratique des Hautes Études",
+                "affiliation-city": "Paris",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835801"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835801?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835801&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835801&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835801",
+        "dc:identifier": "SCOPUS_ID:85120835801",
+        "eid": "2-s2.0-85120835801",
+        "dc:title": "The Roman Imperial cult temple at Luxor: Its architecture and possible connection between Roman and Egyptian cultures",
+        "dc:creator": "Kulikova I.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "720-721",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.135",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Russian State University for the Humanities",
+                "affiliation-city": "Moscow",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835770"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835770?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835770&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835770&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835770",
+        "dc:identifier": "SCOPUS_ID:85120835770",
+        "eid": "2-s2.0-85120835770",
+        "dc:title": "Who am I - and if so, how many? Some remarks on the 'j-augmenť and language change",
+        "dc:creator": "Zöller-Engelhardt M.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "701-706",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.129",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Johannes Gutenberg-Universität Mainz",
+                "affiliation-city": "Mainz",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835647"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835647?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835647&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835647&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835647",
+        "dc:identifier": "SCOPUS_ID:85120835647",
+        "eid": "2-s2.0-85120835647",
+        "dc:title": "The building activity of Pinudjem I at Thebes",
+        "dc:creator": "Dembitz G.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "172-176",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.34",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "CNRS Centre National de la Recherche Scientifique",
+                "affiliation-city": "Paris",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835605"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835605?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835605&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835605&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835605",
+        "dc:identifier": "SCOPUS_ID:85120835605",
+        "eid": "2-s2.0-85120835605",
+        "dc:title": "Non-destructive analysis on 11 Egyptian blue faience tiles from the 2nd and 3rd Dynasties",
+        "dc:creator": "Davidovits J.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "154-158",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.31",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institut Géopolymère",
+                "affiliation-city": "Saint-Quentin",
+                "affiliation-country": "France"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835557"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835557?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835557&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835557&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835557",
+        "dc:identifier": "SCOPUS_ID:85120835557",
+        "eid": "2-s2.0-85120835557",
+        "dc:title": "Some unpublished inscriptions from Quarry P at Hatnub",
+        "dc:creator": "Gourdon Y.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "237-241",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.46",
+        "citedby-count": "2",
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835556"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835556?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835556&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835556&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835556",
+        "dc:identifier": "SCOPUS_ID:85120835556",
+        "eid": "2-s2.0-85120835556",
+        "dc:title": "The Qubbet el-Hawa casting moulds - Late Period bronze working at the First Cataract",
+        "dc:creator": "Auenmüller J.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "19-25",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.8",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Münster",
+                "affiliation-city": "Munster",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835553"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835553?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835553&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835553&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835553",
+        "dc:identifier": "SCOPUS_ID:85120835553",
+        "eid": "2-s2.0-85120835553",
+        "dc:title": "Excavations in the 'Temple of Millions of Years' of Thutmosis III",
+        "dc:creator": "Álvarez M.S.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "581-586",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.108",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Academy of Fine Arts",
+                "affiliation-city": "Sevilla",
+                "affiliation-country": "Spain"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835529"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85120835529?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85120835529&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85120835529&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85120835529",
+        "dc:identifier": "SCOPUS_ID:85120835529",
+        "eid": "2-s2.0-85120835529",
+        "dc:title": "Amduat type papyri in the Pushkin State Museum of Fine Arts, Moscow",
+        "dc:creator": "Lavrentyeva N.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "325-327",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.63",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Pushkin State Museum of Fine Arts",
+                "affiliation-city": "Moscow",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

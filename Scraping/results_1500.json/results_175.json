@@ -1,0 +1,1395 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077057764"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077057764?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077057764&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077057764&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077057764",
+        "dc:identifier": "SCOPUS_ID:85077057764",
+        "eid": "2-s2.0-85077057764",
+        "dc:title": "Beam-type wireless power transfer and solar power satellite",
+        "dc:creator": "Shinohara N.",
+        "prism:publicationName": "Recent Wireless Power Transfer Technologies via Radio Waves",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609235, 9788793609242]"
+            }
+        ],
+        "prism:pageRange": "231-253",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kyoto University",
+                "affiliation-city": "Kyoto",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100940322",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077052910"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077052910?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077052910&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077052910&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077052910",
+        "dc:identifier": "SCOPUS_ID:85077052910",
+        "eid": "2-s2.0-85077052910",
+        "dc:title": "Introduction",
+        "dc:creator": "Shinohara N.",
+        "prism:publicationName": "Recent Wireless Power Transfer Technologies via Radio Waves",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609235, 9788793609242]"
+            }
+        ],
+        "prism:pageRange": "1-7",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kyoto University",
+                "affiliation-city": "Kyoto",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100940322",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077047171"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077047171?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077047171&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077047171&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077047171",
+        "dc:identifier": "SCOPUS_ID:85077047171",
+        "eid": "2-s2.0-85077047171",
+        "dc:title": "Human safety on electromagnetic fields-the international health assessment",
+        "dc:creator": "Miyakoshi J.",
+        "prism:publicationName": "Recent Wireless Power Transfer Technologies via Radio Waves",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609235, 9788793609242]"
+            }
+        ],
+        "prism:pageRange": "257-276",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kyoto University",
+                "affiliation-city": "Kyoto",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100940322",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077045412"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077045412?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077045412&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077045412&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077045412",
+        "dc:identifier": "SCOPUS_ID:85077045412",
+        "eid": "2-s2.0-85077045412",
+        "dc:title": "IoT",
+        "dc:creator": "Correia R.",
+        "prism:publicationName": "Recent Wireless Power Transfer Technologies via Radio Waves",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609235, 9788793609242]"
+            }
+        ],
+        "prism:pageRange": "209-230",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universidade de Aveiro",
+                "affiliation-city": "Aveiro",
+                "affiliation-country": "Portugal"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100940322",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077043683"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077043683?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077043683&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077043683&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077043683",
+        "dc:identifier": "SCOPUS_ID:85077043683",
+        "eid": "2-s2.0-85077043683",
+        "dc:title": "Microwave tube transmitters",
+        "dc:creator": "Mitani T.",
+        "prism:publicationName": "Recent Wireless Power Transfer Technologies via Radio Waves",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609235, 9788793609242]"
+            }
+        ],
+        "prism:pageRange": "49-69",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kyoto University",
+                "affiliation-city": "Kyoto",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100940322",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077042138"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077042138?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077042138&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077042138&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077042138",
+        "dc:identifier": "SCOPUS_ID:85077042138",
+        "eid": "2-s2.0-85077042138",
+        "dc:title": "Antenna technologies",
+        "dc:creator": "Shinohara N.",
+        "prism:publicationName": "Recent Wireless Power Transfer Technologies via Radio Waves",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609235, 9788793609242]"
+            }
+        ],
+        "prism:pageRange": "71-94",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kyoto University",
+                "affiliation-city": "Kyoto",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100940322",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077025013"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077025013?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077025013&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077025013&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077025013",
+        "dc:identifier": "SCOPUS_ID:85077025013",
+        "eid": "2-s2.0-85077025013",
+        "dc:title": "Solid-State circuits for wireless power transfer",
+        "dc:creator": "Popovic Z.",
+        "prism:publicationName": "Recent Wireless Power Transfer Technologies via Radio Waves",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609235, 9788793609242]"
+            }
+        ],
+        "prism:pageRange": "11-48",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Colorado Boulder",
+                "affiliation-city": "Boulder",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100964323",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077024742"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077024742?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077024742&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077024742&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077024742",
+        "dc:identifier": "SCOPUS_ID:85077024742",
+        "eid": "2-s2.0-85077024742",
+        "dc:title": "Coexistence of WPT and wireless LAN in a 2.4-GHz band",
+        "dc:creator": "Yamamoto K.",
+        "prism:publicationName": "Recent Wireless Power Transfer Technologies via Radio Waves",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609235, 9788793609242]"
+            }
+        ],
+        "prism:pageRange": "277-295",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kyoto University",
+                "affiliation-city": "Kyoto",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100956943",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077024076"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077024076?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077024076&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077024076&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077024076",
+        "dc:identifier": "SCOPUS_ID:85077024076",
+        "eid": "2-s2.0-85077024076",
+        "dc:title": "Far field energy harvesting and backscatter communication",
+        "dc:creator": "Naderiparizi S.",
+        "prism:publicationName": "Recent Wireless Power Transfer Technologies via Radio Waves",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609235, 9788793609242]"
+            }
+        ],
+        "prism:pageRange": "143-172",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Washington",
+                "affiliation-city": "Seattle",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100940322",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076568698"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85076568698?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85076568698&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85076568698&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85076568698",
+        "dc:identifier": "SCOPUS_ID:85076568698",
+        "eid": "2-s2.0-85076568698",
+        "dc:title": "Erratum: \"Intersections of lung progenitor cells, lung disease and lung cancer.\" Carla F. Kim. Eur Respir Rev 2017; 26: 170054 (European respiratory review : an official journal of the European Respiratory Society (2017) 26 144 PII: 175054)",
+        "prism:publicationName": "European respiratory review : an official journal of the European Respiratory Society",
+        "prism:eIssn": "16000617",
+        "prism:volume": "26",
+        "prism:issueIdentifier": "146",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1183/16000617.5054-2017",
+        "citedby-count": "0",
+        "pubmed-id": "29070583",
+        "prism:aggregationType": "Journal",
+        "subtype": "er",
+        "subtypeDescription": "Erratum",
+        "source-id": "18476",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072721375"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072721375?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072721375&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072721375&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072721375",
+        "dc:identifier": "SCOPUS_ID:85072721375",
+        "eid": "2-s2.0-85072721375",
+        "dc:title": "Establishing a private protected area in Ecuador: Lessons learned in the management of Cerro Blanco Protected Forest in the city of Guayaquil",
+        "dc:creator": "Horstman E.",
+        "prism:publicationName": "Case Studies in the Environment",
+        "prism:eIssn": "24739510",
+        "prism:volume": "1",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.1525/cse.2017.sc.452964",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Fundación Pro Bosque (Pro Forest Foundation)",
+                "affiliation-city": "Guayaquil",
+                "affiliation-country": "Ecuador"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101042191",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072109367"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072109367?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072109367&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072109367&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072109367",
+        "dc:identifier": "SCOPUS_ID:85072109367",
+        "eid": "2-s2.0-85072109367",
+        "dc:title": "Carving out identities in the Egyptian desert: Self-presentation styles adopted by the ancient travelers of Kharga Oasis",
+        "dc:creator": "Lazaridis N.",
+        "prism:publicationName": "XI International Congress of Egyptologists: Florence Egyptian Museum",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9781784916015, 9781784916008]"
+            }
+        ],
+        "prism:pageRange": "328-332",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "prism:doi": "10.2307/j.ctv177tjnf.64",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "California State University, Sacramento",
+                "affiliation-city": "Sacramento",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101067747",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071896109"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071896109?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071896109&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071896109&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071896109",
+        "dc:identifier": "SCOPUS_ID:85071896109",
+        "eid": "2-s2.0-85071896109",
+        "dc:title": "Advanced optical measurements for data centers",
+        "dc:creator": "Yao S.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "481-548",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "General Photonics Corporation",
+                "affiliation-city": "Chino",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071896067"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071896067?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071896067&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071896067&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071896067",
+        "dc:identifier": "SCOPUS_ID:85071896067",
+        "eid": "2-s2.0-85071896067",
+        "dc:title": "Vertical cavity surface emitting lasers",
+        "dc:creator": "Jiang W.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "33-86",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "WJ Technologies LLC",
+                "affiliation-city": null,
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071895711"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071895711?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071895711&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071895711&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071895711",
+        "dc:identifier": "SCOPUS_ID:85071895711",
+        "eid": "2-s2.0-85071895711",
+        "dc:title": "LiNbO<inf>3</inf> Mach-Zehnder modulator",
+        "dc:creator": "Nakajima H.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "377-404",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Waseda University",
+                "affiliation-city": "Tokyo",
+                "affiliation-country": "Japan"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071895580"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071895580?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071895580&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071895580&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071895580",
+        "dc:identifier": "SCOPUS_ID:85071895580",
+        "eid": "2-s2.0-85071895580",
+        "dc:title": "Preface",
+        "dc:creator": "Chang F.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "xvii-xx",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Marvell Semiconductor, Inc.",
+                "affiliation-city": "Sunnyvale",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ed",
+        "subtypeDescription": "Editorial",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071895506"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071895506?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071895506&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071895506&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071895506",
+        "dc:identifier": "SCOPUS_ID:85071895506",
+        "eid": "2-s2.0-85071895506",
+        "dc:title": "Silicon photonics based PAM4, DWDM datacenter interconnects",
+        "dc:creator": "Nagarajan R.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "405-430",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Marvell Semiconductor, Inc.",
+                "affiliation-city": "Sunnyvale",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071895202"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071895202?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071895202&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071895202&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071895202",
+        "dc:identifier": "SCOPUS_ID:85071895202",
+        "eid": "2-s2.0-85071895202",
+        "dc:title": "Ultra-low-power SiGe driver-IC for high-speed electro-absorption modulated DFB lasers",
+        "dc:creator": "Choi J.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "659-680",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Fraunhofer-Institut für Nachrichtentechnik Heinrich-Hertz-Institut",
+                "affiliation-city": "Berlin",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894732"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894732?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071894732&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071894732&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071894732",
+        "dc:identifier": "SCOPUS_ID:85071894732",
+        "eid": "2-s2.0-85071894732",
+        "dc:title": "Multi-dimensional polarization modulation",
+        "dc:creator": "Che D.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "585-620",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of Melbourne",
+                "affiliation-city": "Melbourne",
+                "affiliation-country": "Australia"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894673"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894673?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071894673&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071894673&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071894673",
+        "dc:identifier": "SCOPUS_ID:85071894673",
+        "eid": "2-s2.0-85071894673",
+        "dc:title": "Low-loss photonic integration: Applications in datacenters",
+        "dc:creator": "John D.D.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "431-480",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University of California, Santa Barbara",
+                "affiliation-city": "Santa Barbara",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894371"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894371?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071894371&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071894371&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071894371",
+        "dc:identifier": "SCOPUS_ID:85071894371",
+        "eid": "2-s2.0-85071894371",
+        "dc:title": "Directly modulated laser technology: Past, present, and future",
+        "dc:creator": "Matsui Y.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "87-172",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "9",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "II-VI Incorporated",
+                "affiliation-city": "Saxonburg",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894303"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894303?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071894303&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071894303&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071894303",
+        "dc:identifier": "SCOPUS_ID:85071894303",
+        "eid": "2-s2.0-85071894303",
+        "dc:title": "High-speed flexible coherent optical transport network",
+        "dc:creator": "Xia T.J.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "621-658",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Verizon Communications",
+                "affiliation-city": "New York",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894198"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071894198?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071894198&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071894198&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071894198",
+        "dc:identifier": "SCOPUS_ID:85071894198",
+        "eid": "2-s2.0-85071894198",
+        "dc:title": "Optical interconnect technologies for datacenter networks",
+        "dc:creator": "Xie C.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "1-32",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Alibaba Group, USA",
+                "affiliation-city": "San Mateo",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071893879"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071893879?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071893879&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071893879&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071893879",
+        "dc:identifier": "SCOPUS_ID:85071893879",
+        "eid": "2-s2.0-85071893879",
+        "dc:title": "Optical fiber for datacenter connectivity",
+        "dc:creator": "Sun Y.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "213-278",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "OFS",
+                "affiliation-city": "Norcross",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071893344"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071893344?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071893344&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071893344&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071893344",
+        "dc:identifier": "SCOPUS_ID:85071893344",
+        "eid": "2-s2.0-85071893344",
+        "dc:title": "PAM4 signaling and its applications",
+        "dc:creator": "Chang F.",
+        "prism:publicationName": "Datacenter Connectivity Technologies: Principles and Practice",
+        "prism:isbn": [
+            {
+                "@_fa": "true",
+                "$": "[9788793609211, 9788793609228]"
+            }
+        ],
+        "prism:pageRange": "279-326",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Marvell Semiconductor, Inc.",
+                "affiliation-city": "Sunnyvale",
+                "affiliation-country": "United States"
+            }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100927913",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]

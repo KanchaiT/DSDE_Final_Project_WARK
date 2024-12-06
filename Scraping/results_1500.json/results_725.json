@@ -1,0 +1,1319 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039917112"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039917112?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039917112&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039917112&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039917112",
+        "dc:identifier": "SCOPUS_ID:85039917112",
+        "eid": "2-s2.0-85039917112",
+        "dc:title": "Online performance dialogue system model (e-DP): A requirement analysis study at batu pahat district education office",
+        "dc:creator": "Yunos A.N.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6699-6706",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universiti Teknikal Malaysia Melaka",
+                "affiliation-city": "Malacca",
+                "affiliation-country": "Malaysia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039916797"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039916797?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039916797&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039916797&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039916797",
+        "dc:identifier": "SCOPUS_ID:85039916797",
+        "eid": "2-s2.0-85039916797",
+        "dc:title": "Collaborative detection and filtering techniques against denial of service attacks in cloud computing",
+        "dc:creator": "El Mir I.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6902-6914",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Université Hassan 1er",
+                "affiliation-city": "Settat",
+                "affiliation-country": "Morocco"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039915502"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039915502?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039915502&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039915502&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039915502",
+        "dc:identifier": "SCOPUS_ID:85039915502",
+        "eid": "2-s2.0-85039915502",
+        "dc:title": "Nature inspired soft computing based software testing techniques for reusable software components",
+        "dc:creator": "Gulia P.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6996-7004",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "7",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Maharshi Dayanand University",
+                "affiliation-city": "Rohtak",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039915459"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039915459?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039915459&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039915459&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039915459",
+        "dc:identifier": "SCOPUS_ID:85039915459",
+        "eid": "2-s2.0-85039915459",
+        "dc:title": "Asymptotic estimates of the solution of a singularly perturbed boundary value problem with boundary jumps",
+        "dc:creator": "Nurgabyl D.N.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6766-6775",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Zhetysu University named after I. Zhansugurov",
+                "affiliation-city": "Taldy-Kurgan",
+                "affiliation-country": "Kazakhstan"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039914627"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039914627?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039914627&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039914627&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039914627",
+        "dc:identifier": "SCOPUS_ID:85039914627",
+        "eid": "2-s2.0-85039914627",
+        "dc:title": "Using modified bat algorithm to train neural networks for spam detection",
+        "dc:creator": "Jantan A.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6788-6799",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "15",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universiti Sains Malaysia",
+                "affiliation-city": "Minden",
+                "affiliation-country": "Malaysia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039914615"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039914615?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039914615&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039914615&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039914615",
+        "dc:identifier": "SCOPUS_ID:85039914615",
+        "eid": "2-s2.0-85039914615",
+        "dc:title": "Mining optimized positive and negative association rule using advance ABC algorithm",
+        "dc:creator": "Jingle I.B.J.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6846-6855",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Noorul Islam University",
+                "affiliation-city": "Kanyakumari",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039914535"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039914535?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039914535&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039914535&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039914535",
+        "dc:identifier": "SCOPUS_ID:85039914535",
+        "eid": "2-s2.0-85039914535",
+        "dc:title": "Warning criterion ontology for measuring of compliance in standard operating procedure implementation",
+        "dc:creator": "Hartanto H.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6867-6880",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "IPB University",
+                "affiliation-city": "Bogor",
+                "affiliation-country": "Indonesia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039913445"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039913445?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039913445&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039913445&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039913445",
+        "dc:identifier": "SCOPUS_ID:85039913445",
+        "eid": "2-s2.0-85039913445",
+        "dc:title": "A systematic review on the relationship between stock market prediction model using sentiment analysis on twitter based on machine learning method and features selection",
+        "dc:creator": "Jabbar Alkubaisi G.A.A.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6924-6933",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universiti Utara Malaysia",
+                "affiliation-city": "Sintok",
+                "affiliation-country": "Malaysia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039913399"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039913399?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039913399&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039913399&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039913399",
+        "dc:identifier": "SCOPUS_ID:85039913399",
+        "eid": "2-s2.0-85039913399",
+        "dc:title": "Empirical studies on cloud computing adoption: A systematic literature review",
+        "dc:creator": "Saleh A.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6809-6832",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universiti Tenaga Nasional",
+                "affiliation-city": "Kajang",
+                "affiliation-country": "Malaysia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039911870"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039911870?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039911870&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039911870&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039911870",
+        "dc:identifier": "SCOPUS_ID:85039911870",
+        "eid": "2-s2.0-85039911870",
+        "dc:title": "Thin film roughness optimization in the tin coatings using genetic algorithms",
+        "dc:creator": "Fauzi N.F.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6690-6698",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "12",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universiti Teknikal Malaysia Melaka",
+                "affiliation-city": "Malacca",
+                "affiliation-country": "Malaysia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039909775"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039909775?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039909775&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039909775&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039909775",
+        "dc:identifier": "SCOPUS_ID:85039909775",
+        "eid": "2-s2.0-85039909775",
+        "dc:title": "A proposed conceptual model for flipped learning",
+        "dc:creator": "Ajayi I.H.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "7049-7057",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "6",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universiti Teknologi Malaysia",
+                "affiliation-city": "Johor Bahru",
+                "affiliation-country": "Malaysia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039908587"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039908587?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039908587&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039908587&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039908587",
+        "dc:identifier": "SCOPUS_ID:85039908587",
+        "eid": "2-s2.0-85039908587",
+        "dc:title": "Developing learners’ employability skill of critical thinking through collaborative online discussion at tertiary institution",
+        "dc:creator": "Ali M.F.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6833-6845",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universiti Teknologi Malaysia",
+                "affiliation-city": "Johor Bahru",
+                "affiliation-country": "Malaysia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039907708"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039907708?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039907708&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039907708&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039907708",
+        "dc:identifier": "SCOPUS_ID:85039907708",
+        "eid": "2-s2.0-85039907708",
+        "dc:title": "Implications of discretization towards improving classification accuracy for software defect data",
+        "dc:creator": "Kapoor P.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6893-6901",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Amity University",
+                "affiliation-city": "Noida",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039907593"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039907593?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039907593&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039907593&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039907593",
+        "dc:identifier": "SCOPUS_ID:85039907593",
+        "eid": "2-s2.0-85039907593",
+        "dc:title": "Applying interpretive hermeneutic approach to interrelate the game environment and learner’s interaction",
+        "dc:creator": "Ahmad M.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "7030-7048",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universiti Teknologi PETRONAS",
+                "affiliation-city": "Seri Iskandar",
+                "affiliation-country": "Malaysia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039907221"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039907221?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039907221&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039907221&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039907221",
+        "dc:identifier": "SCOPUS_ID:85039907221",
+        "eid": "2-s2.0-85039907221",
+        "dc:title": "Deep residual learning for tomato plant leaf disease identification",
+        "dc:creator": "Atabay H.A.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6800-6808",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "51",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Gonbad Kavous University",
+                "affiliation-city": "Gonbad Kavous",
+                "affiliation-country": "Iran"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039906208"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039906208?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039906208&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039906208&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039906208",
+        "dc:identifier": "SCOPUS_ID:85039906208",
+        "eid": "2-s2.0-85039906208",
+        "dc:title": "Knowledge discovery of the students academic performance in higher education using intuitionistic fuzzy based clustering",
+        "dc:creator": "Prabha T.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "7005-7019",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "3",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039905828"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039905828?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039905828&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039905828&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039905828",
+        "dc:identifier": "SCOPUS_ID:85039905828",
+        "eid": "2-s2.0-85039905828",
+        "dc:title": "Lifetime maximization of heterogeneous wireless sensor networks using improved energy aware distributed clustering approach with rendezvous nodes and mobile sink",
+        "dc:creator": "Karthikeyan A.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6752-6765",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Vellore Institute of Technology",
+                "affiliation-city": "Vellore",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039905287"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039905287?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039905287&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039905287&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039905287",
+        "dc:identifier": "SCOPUS_ID:85039905287",
+        "eid": "2-s2.0-85039905287",
+        "dc:title": "A survey on privacy of location-based services: Classification, inference attacks, and challenges",
+        "dc:creator": "Alrahhal M.S.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6719-6740",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "17",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "King Abdulaziz University",
+                "affiliation-city": "Jeddah",
+                "affiliation-country": "Saudi Arabia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039903459"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039903459?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039903459&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039903459&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039903459",
+        "dc:identifier": "SCOPUS_ID:85039903459",
+        "eid": "2-s2.0-85039903459",
+        "dc:title": "Acceptance sampling for network intrusion detection",
+        "dc:creator": "Madhusudhanarao C.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6707-6718",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "3",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Sri Venkateswara University College Of Engineering",
+                "affiliation-city": "Tirupati",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039902663"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039902663?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039902663&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039902663&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039902663",
+        "dc:identifier": "SCOPUS_ID:85039902663",
+        "eid": "2-s2.0-85039902663",
+        "dc:title": "Eclipse JDT-based method for dynamic analysis integration in java code generation process",
+        "dc:creator": "Elmounadi A.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6950-6963",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Mohammed V University in Rabat",
+                "affiliation-city": "Rabat",
+                "affiliation-country": "Morocco"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039900587"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039900587?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039900587&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039900587&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039900587",
+        "dc:identifier": "SCOPUS_ID:85039900587",
+        "eid": "2-s2.0-85039900587",
+        "dc:title": "Distributed and progressive feature selection algorithm for high dimensional data: A MapReduce approach",
+        "dc:creator": "Raja Ramesh C.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "7020-7029",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "K L Deemed to be University",
+                "affiliation-city": "Vaddeswaram",
+                "affiliation-country": "India"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039898469"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039898469?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039898469&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039898469&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039898469",
+        "dc:identifier": "SCOPUS_ID:85039898469",
+        "eid": "2-s2.0-85039898469",
+        "dc:title": "Exploring the use of computer assisted audit techniques and its impact to the transparency and accountability of financial statements",
+        "dc:creator": "Widuri R.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "7058-7068",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Bina Nusantara University",
+                "affiliation-city": "Jakarta",
+                "affiliation-country": "Indonesia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039898170"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039898170?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039898170&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039898170&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039898170",
+        "dc:identifier": "SCOPUS_ID:85039898170",
+        "eid": "2-s2.0-85039898170",
+        "dc:title": "Evaluation of learning programs and computer certification at course institute in bali using cse-ucla based on saw simulation model",
+        "dc:creator": "Jampel I.N.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6934-6949",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "20",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universitas Pendidikan Ganesha",
+                "affiliation-city": "Bali",
+                "affiliation-country": "Indonesia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039897663"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039897663?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039897663&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039897663&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039897663",
+        "dc:identifier": "SCOPUS_ID:85039897663",
+        "eid": "2-s2.0-85039897663",
+        "dc:title": "Cotton texture segmentation based on image texture analysis using gray level run length and euclidean distance",
+        "dc:creator": "Hammam S.A.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6915-6923",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "4",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Telkom University",
+                "affiliation-city": "Bandung",
+                "affiliation-country": "Indonesia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039896967"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85039896967?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85039896967&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85039896967&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85039896967",
+        "dc:identifier": "SCOPUS_ID:85039896967",
+        "eid": "2-s2.0-85039896967",
+        "dc:title": "Decidability properties of the class of formal languages recognized by K-edge finite state automata",
+        "dc:creator": "Jitpattanakul A.",
+        "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+        "prism:issn": "19928645",
+        "prism:eIssn": "18173195",
+        "prism:volume": "95",
+        "prism:issueIdentifier": "24",
+        "prism:pageRange": "6964-6973",
+        "prism:coverDate": "2017-12-31",
+        "prism:coverDisplayDate": "31 December 2017",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "King Mongkut's University of Technology North Bangkok",
+                "affiliation-city": "Bangkok",
+                "affiliation-country": "Thailand"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "19700182903",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]
