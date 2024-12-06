@@ -1,8 +1,12 @@
 import requests
 import pandas as pd
+from dotenv import load_dotenv
+import os
 
 # ตั้งค่า API Key
-API_KEY = "1cc942676f0e5ce55217e8df5e45e881"  # ใส่ API Key ที่ได้รับ
+load_dotenv()
+API_KEY = os.getenv("SCOPUS_API_KEY")
+
 HEADERS = {
     "X-ELS-APIKey": API_KEY,
     "Accept": "application/json"
