@@ -7,12 +7,12 @@ def extract_data_from_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    # Extract fields based on the specified keys
-    citation_title = data.get("abstracts-retrieval-response", {}).get("item", {}).get("coredata", {}).get("dc:title", "")
-    abstracts = data.get("abstracts-retrieval-response", {}).get("item", {}).get("coredata", {}).get("dc:description", "")
-    classifications = ", ".join([term.get("$", "") for term in data.get("abstracts-retrieval-response", {}).get("item", {}).get("enhancement", {}).get("classificationgroup", {}).get("classifications", [])])
+    # Extract fields based on the provided structure
+    citation_title = data.get("abstracts-retrieval-response", {}).get("item", {}).get("bibrecord", {}).get("head", {}).get("citation-title", "")
+    abstracts = data.get("abstracts-retrieval-response", {}).get("item", {}).get("bibrecord", {}).get("head", {}).get("abstracts", "")
+    classifications = ", ".join([cls.get("classification", "") for cls in data.get("abstracts-retrieval-response", {}).get("item", {}).get("bibrecord", {}).get("head", {}).get("enhancement", {}).get("classificationgroup", {}).get("classifications", [])])
     subject_areas = ", ".join([area.get("$", "") for area in data.get("abstracts-retrieval-response", {}).get("item", {}).get("subject-areas", {}).get("subject-area", [])])
-    authors = ", ".join([f"{author.get('ce:given-name', '')} {author.get('ce:surname', '')}" for author in data.get("abstracts-retrieval-response", {}).get("item", {}).get("author-group", [{}])[0].get("author", [])])
+    authors = ", ".join([f"{author.get('preferred-name', {}).get('ce:given-name', '')} {author.get('preferred-name', {}).get('ce:surname', '')}" for author in data.get("abstracts-retrieval-response", {}).get("item", {}).get("bibrecord", {}).get("head", {}).get("author-group", [{}])[0].get("author", [])])
 
     return {
         "citation_title": citation_title,
