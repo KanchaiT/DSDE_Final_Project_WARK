@@ -13,7 +13,7 @@ HEADERS = {
 }
 BASE_URL = "https://api.elsevier.com/content/search/scopus"
 
-# ตัวอย่าง Query
+#  Query
 query = "TITLE-ABS-KEY(hydration AND health)"
 all_results = []
 
@@ -28,6 +28,7 @@ for start in range(0, 1000, 25):
     if response.status_code == 200:
         data = response.json()
         all_results.extend(data["search-results"]["entry"])
+        print(f"Scraped {start}: Retrieved {len(data['search-results']['entry'])} records. Total so far: {len(all_results)}")
     else:
         print(f"Error: {response.status_code} - {response.text}")
         break
