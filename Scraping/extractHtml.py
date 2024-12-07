@@ -44,12 +44,56 @@ for filename in os.listdir(html_directory):
                             # Find the <span> inside the <p> and extract text
                             abstract_span = abstract_paragraph.find("span")
                             abstract_text = abstract_span.text.strip() if abstract_span else "-"
+                # Locate the author_list
+                author_list_div = micro_ui.find("div", {"data-testid": "author-list"})
+                author_names = []
+
+                if author_list_div:
+                    # Find all <ul> elements within this div
+                    ul = author_list_div.find("ul")
+                    if ul:
+                        # Iterate through all <li> or <button> elements
+                        for button in ul.find_all("button"):
+                            # Find the <span> inside each button
+                            span = button.find("span")
+                            if span:
+                                # Extract the text and format it
+                                author_text = span.text.strip()
+                                if "," in author_text:
+                                    surname, name = author_text.split(",", 1)
+                                    formatted_name = f"{surname.strip()} {name.strip()}"
+                                    author_names.append(formatted_name)
+                # Format the author list
+                authors = "; ".join([name for name in author_names]) if author_names else "-"
                 
-                authors = " " 
-                # micro_ui.find("authors").text.strip() if micro_ui.find("authors") else None
+                # Location affiliations
+                affiliation_section = micro_ui.find("div", {"id": "affiliation-section"})
+                affiliations = []
                 
-                affiliations = " "
-                # micro_ui.find("affiliations").text.strip() if micro_ui.find("affiliations") else None
+                if affiliation_section:
+                    # Locate the <ul> within this section
+                    ul = affiliation_section.find("ul", class_="DocumentHeader-module__p4B_K")
+                    if ul:
+                        # Iterate through all <li> elements
+                        for li in ul.find_all("li"):
+                            # Extract the <span> inside the <li>
+                            span = li.find("span")
+                            if span:
+                                # Parse the affiliation details
+                                affiliation_text = span.text.strip()
+                                # Split into parts by commas (name, city, postcode, country)
+                                parts = affiliation_text.split(",")
+                                if len(parts) >= 3:
+                                    name = parts[0].strip()
+                                    city = parts[1].strip()
+                                    country = parts[-1].strip()
+                                    formatted_affiliation = f"{name}\\{city}\\{country}"
+                                    affiliations.append(formatted_affiliation)
+                
+                # Format the affiliations as requested
+                affiliations_formatted = ";".join(affiliations) if affiliations else "-"
+
+
                 subject_area_name = " "
                 # micro_ui.find("subject_area_name").text.strip() if micro_ui.find("subject_area_name") else None
                 
@@ -59,7 +103,7 @@ for filename in os.listdir(html_directory):
                     "citation_title": citation_title,
                     "abstracts": abstract_text,
                     "authors": authors,
-                    "affiliations": affiliations,
+                    "affiliations": affiliations_formatted,
                     "subject_area_name": subject_area_name
                 })
 
