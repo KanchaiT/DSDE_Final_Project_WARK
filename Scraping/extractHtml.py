@@ -93,9 +93,24 @@ for filename in os.listdir(html_directory):
                 # Format the affiliations as requested
                 affiliations_formatted = ";".join(affiliations) if affiliations else "-"
 
-
-                subject_area_name = " "
-                # micro_ui.find("subject_area_name").text.strip() if micro_ui.find("subject_area_name") else None
+                # Location subject_area_name
+                author_keywords_heading = micro_ui.find("h3", id="author-keywords")
+                subject_area_names = []
+                
+                if author_keywords_heading:
+                    # Find the <div> following this <h3>
+                    keywords_div = author_keywords_heading.find_next("div")
+                    if keywords_div:
+                        # Iterate through all <span> elements with the desired class
+                        for keyword_span in keywords_div.find_all("span", class_="Highlight-module__MMPyY"):
+                            # Extract the text from each <span>
+                            keyword_text = keyword_span.text.strip()
+                            subject_area_names.append(keyword_text)
+                
+                # Format the keywords as a semicolon-separated string
+                subject_area_name = "; ".join(subject_area_names) if subject_area_names else "-"
+            
+                
                 
                 # Append the extracted data
                 extracted_data.append({
@@ -104,12 +119,13 @@ for filename in os.listdir(html_directory):
                     "abstracts": abstract_text,
                     "authors": authors,
                     "affiliations": affiliations_formatted,
+                    "classifications" : "-",
                     "subject_area_name": subject_area_name
                 })
 
 # Write extracted data to a CSV file
 with open(output_csv, "w", newline="", encoding="utf-8") as csvfile:
-    fieldnames = ["file", "citation_title", "abstracts", "authors", "affiliations", "subject_area_name"]
+    fieldnames = ["file", "citation_title", "abstracts", "authors", "affiliations","classifications", "subject_area_name"]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     
     # Write header and rows
