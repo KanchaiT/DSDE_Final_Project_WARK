@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 # URL of the Scopus record
-url = "https://www.scopus.com/record/display.uri?eid=2-s2.0-85179929360&origin=inward"
+url = "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85207964401&origin=inward"
 
 # Headers to mimic a browser request
 headers = {
