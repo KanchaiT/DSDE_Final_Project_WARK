@@ -4,18 +4,17 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import os
 import json
 import time
+from bs4 import BeautifulSoup
 
 # Your login credentials
 email = "wark.cedt@gmail.com"
 password = "wark_404_cedt"
 
-# URL of the Scopus login page and target record
-login_url = "https://www.scopus.com/home.uri"
-record_url = "https://www.scopus.com/record/display.uri?eid=2-s2.0-85179929360&origin=inward"
-
-print(f"Opening page: {record_url}")  # Print progress as soon as the page starts loading
 chrome_options = Options()
 chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration (useful for some environments)
 webdriver_path = r"C:/Users/Public/Documents/My/DataSci/chromedriver-win64/chromedriver.exe"
@@ -25,70 +24,66 @@ service = Service(webdriver_path)
 
 # Optional: Add Chrome options if needed
 chrome_options = webdriver.ChromeOptions()
+# chrome_options.add_argument("--headless")  # Run in headless mode
 
 # Initialize the WebDriver using the Service object
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
-try:
-    # Step 1: Open the login page
-    driver.get(login_url)
-    time.sleep(3)  # Wait for the page to load
 
-    # Step 2: Find and fill the email input field
-    email_field = driver.find_element(By.ID, "bdd-email")  # Update this selector if necessary
-    email_field.send_keys(email)
-
-    # Step 3: Submit email and move to password step
-    email_field.send_keys(Keys.RETURN)
-    time.sleep(2)  # Adjust time as necessary for the next step to load
-
-    # Step 4: Find and fill the password input field
-    password_field = driver.find_element(By.ID, "bdd-password")  # Update this selector if necessary
-    password_field.send_keys(password)
-
-    # Step 5: Submit the login form
-    password_field.send_keys(Keys.RETURN)
-    time.sleep(5)  # Wait for the login to complete
-
-    # Step 6: Navigate to the specific Scopus record after login
-    driver.get(record_url)
-    driver.implicitly_wait(10)  # Wait for the content to load
-
-    # Extract the title
-    title = driver.title.strip()
-
-    # Extract the abstract section
+def scraping(url,i,output_folder):
     try:
-        abstract_section = driver.find_element(By.ID, "abstractSection")
-        abstract = abstract_section.find_element(By.TAG_NAME, "p").text.strip()
-    except Exception:
-        abstract = "Abstract not found"
+        print(f"Opening page: {url}") 
+        driver.get(url)
+        WebDriverWait(driver,10).until(lambda d: d.execute_script('return document.readyState') == 'complete')
 
-    # Extract the author keywords
-    try:
-        keyword_elements = driver.find_elements(By.CSS_SELECTOR, "#authorKeywords .badges")
-        keywords = [keyword.text for keyword in keyword_elements]
-    except Exception:
-        keywords = []
+        if driver.find_element(By.ID,"signin_link_move"):
+            btn = driver.find_element(By.ID,"signin_link_move")
+            btn.submit()
+            WebDriverWait(driver,5).until(lambda d: d.execute_script('return document.readyState') == 'complete')
 
-    # Prepare data for saving
-    data = {
-        "title": title,
-        "abstract": abstract,
-        "author_keywords": keywords
-    }
+            email_field = driver.find_element(By.ID, "bdd-email")  # Update this selector if necessary
+            email_field.send_keys(email)
+            WebDriverWait(driver,5).until(lambda d: d.execute_script('return document.readyState') == 'complete')
 
-    # Save data to a JSON file
-    with open("scopus_results.json", "w", encoding="utf-8") as json_file:
-        json.dump(data, json_file, ensure_ascii=False, indent=4)
-    print("Data saved to scopus_results.json")
+            email_field.send_keys(Keys.RETURN)
+            WebDriverWait(driver,5).until(lambda d: d.execute_script('return document.readyState') == 'complete')
 
-    # Save the full HTML content to a file
-    full_html = driver.page_source
-    with open("scopus_full_html.html", "w", encoding="utf-8") as html_file:
-        html_file.write(full_html)
-    print("Full HTML content saved to scopus_full_html.html")
+            btn.click()
+            WebDriverWait(driver,5).until(lambda d: d.execute_script('return document.readyState') == 'complete')
 
-finally:
-    # Close the WebDriver
-    driver.quit()
+            password_field = driver.find_element(By.ID, "bdd-password")  # Update this selector if necessary
+            password_field.send_keys(password)
+            WebDriverWait(driver,5).until(lambda d: d.execute_script('return document.readyState') == 'complete')
+
+            password_field.send_keys(Keys.RETURN)
+            WebDriverWait(driver,5).until(lambda d: d.execute_script('return document.readyState') == 'complete')
+
+            btn = driver.find_element(By.ID,"bdd-elsPrimaryBtn")
+            btn.click()
+            WebDriverWait(driver,5).until(lambda d: d.execute_script('return document.readyState') == 'complete')
+        
+
+        # Save the full HTML content to a file
+        full_html = BeautifulSoup(driver.page_source,"lxml")
+        os.makedirs(output_folder, exist_ok=True)  # สร้างโฟลเดอร์ถ้ายังไม่มี
+        output_file = os.path.join(output_folder, f"{i}.html")
+        with open(output_file, "w", encoding="utf-8") as html_file:
+            html_file.write(str(full_html))
+        print(f"Full HTML content saved to {output_file}")
+
+    finally:
+        # Close the WebDriver
+        driver.quit()                       
+
+def process_all_json_files(input_file, output_folder):
+    i = 0
+    # Loop through all link in file
+    with open(input_file, 'r') as file:
+        for link in [line.strip() for line in file.readlines() if line.strip()]:
+            i=i+1
+            scraping(link,i,output_folder)
+
+
+input_file = "Scraping/INPUT_link/link_test.txt"
+output_folder = "Scraping/OUTPUT_html/test/"
+process_all_json_files(input_file, output_folder)
