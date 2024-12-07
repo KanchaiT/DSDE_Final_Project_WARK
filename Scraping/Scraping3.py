@@ -87,13 +87,13 @@ def scraping(driver, url, i, output_folder):
         os.makedirs(output_folder, exist_ok=True)
         output_file = os.path.join(output_folder, f"{i}.html")
         with open(output_file, "w", encoding="utf-8") as html_file:
-            html_file.write(str(full_html))
+            html_file.write(full_html.prettify())
         print(f"Full HTML content saved to {output_file}")
 
     except WebDriverException as e:
         print(f"Error during scraping: {e}")
         print(f"Current URL: {driver.current_url}")
-        print(f"Page Source:\n{driver.page_source[:500]}")
+        print(f"Page Source:/n{driver.page_source[:500]}")
     except Exception as e:
         print(f"Unexpected error: {e}")
 
