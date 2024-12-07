@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 # URL of the Scopus record
-url = "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85207964401&origin=inward"
+url = "https://www.scopus.com/record/display.uri?eid=2-s2.0-85179929360&origin=inward"
 
 # Headers to mimic a browser request
 headers = {
@@ -36,10 +36,10 @@ if response.status_code == 200:
     }
     
     # Save soup content to a .txt file
-    # with open("soup_output.txt", "w", encoding="utf-8") as file:
-    #     file.write(soup.prettify())
+    with open("soup_output.txt", "w", encoding="utf-8") as file:
+        file.write(soup.prettify())
         
-    # print("Soup content saved to soup_output.txt")
+    print("Soup content saved to soup_output.txt")
         
     with open("scopus_results.json", "w", encoding="utf-8") as json_file:
       json.dump(data, json_file, ensure_ascii=False, indent=4)
