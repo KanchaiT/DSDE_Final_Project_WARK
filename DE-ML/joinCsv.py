@@ -22,6 +22,6 @@ def join_csv_files(input_folder, output_file):
         print("No valid CSV files found to join.")
 
 # Example usage
-input_folder = "Data_Aj"  # Replace with the folder containing your CSV files
-output_file = "Data_Aj/joined_2018-2023.csv"  # Replace with the desired output file name
+input_folder = "Data_Aj/2"  # Replace with the folder containing your CSV files
+output_file = "Data_Aj/2/joined_2018-2023.csv"  # Replace with the desired output file name
 join_csv_files(input_folder, output_file)
