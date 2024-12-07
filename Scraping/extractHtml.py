@@ -3,7 +3,7 @@ import csv
 from bs4 import BeautifulSoup
 
 # Directory containing your HTML files
-html_directory = "Scraping/OUTPUT_html/test"
+html_directory = "Scraping/OUTPUT_html/real"
 
 # Output CSV file
 output_csv = "Scraping/Data_Scrap/extracted_html.csv"

@@ -20,7 +20,7 @@ chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 
-webdriver_path = "/usr/local/bin/chromedriver"
+webdriver_path = r"C:\Users\Achita\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
 
 def create_driver():
     """Creates and returns a new WebDriver instance."""
@@ -120,6 +120,6 @@ def process_all_json_files(input_file, output_folder):
         print(f"Error processing input file: {e}")
 
 # Input and output paths
-input_file = "Scraping/INPUT_link/link_test.txt"
-output_folder = "Scraping/OUTPUT_html/test/"
+input_file = "Scraping/INPUT_link/scopus_links.txt"
+output_folder = "Scraping/OUTPUT_html/real/"
 process_all_json_files(input_file, output_folder)
