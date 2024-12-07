@@ -17,7 +17,7 @@ password = "wark_404_cedt"
 
 chrome_options = Options()
 chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration (useful for some environments)
-webdriver_path = r"C:/Users/Public/Documents/My/DataSci/chromedriver-win64/chromedriver.exe"
+webdriver_path = r"/usr/local/bin/chromedriver"
 
 # Create a Service object
 service = Service(webdriver_path)
@@ -37,8 +37,18 @@ def scraping(url,i,output_folder):
         WebDriverWait(driver,10).until(lambda d: d.execute_script('return document.readyState') == 'complete')
 
         if driver.find_element(By.ID,"signin_link_move"):
-            btn = driver.find_element(By.ID,"signin_link_move")
-            btn.submit()
+            try:
+              btn = driver.find_element(By.ID,"signin_link_move")
+              btn.submit()
+              print("Element submitted successfully!")
+            except Exception as e :
+              try:
+                btn = driver.find_element(By.ID,"signin_link_move")
+                btn.click()
+                print("Element clicked successfully!")
+              except Exception as e :
+                print(f"Element submitted or clicked failed")
+              
             WebDriverWait(driver,5).until(lambda d: d.execute_script('return document.readyState') == 'complete')
 
             email_field = driver.find_element(By.ID, "bdd-email")  # Update this selector if necessary
