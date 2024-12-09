@@ -127,7 +127,10 @@ def extract_data_from_json(file_path):
     subject_area_names = [area.get("$","-").strip() for area in subject_areas if "$" in area]
     subject_area_codes = [area.get("@code","-").strip() for area in subject_areas if "@code" in area]
     
-    citedby-count =  data.get("abstracts-retrieval-response", {}).get("coredata", {}).get("citedby-count",0)
+    date = data.get("abstracts-retrieval-response", {}).get("coredata", {}).get("prism:coverDate","-")
+
+
+    citedby_count = data.get("abstracts-retrieval-response", {}).get("coredata", {}).get("citedby-count","0")
 
     return {
         "citation_title": citation_title if citation_title else "-",
@@ -138,7 +141,8 @@ def extract_data_from_json(file_path):
         "classifications": "; ".join([f"{k}: {'\\'.join(v)}" for item in classifications for k, v in item.items()]) if classifications else "-",
         "subject_area_name": "; ".join(subject_area_names) if subject_area_names else "-",
         "subject_area_code": "; ".join(subject_area_codes) if subject_area_codes else "-",
-        "citedby-count": citedby-count if citedby-count else 0
+        "date" : date if date else "-",
+        "citedby_count": citedby_count if citedby_count else "0"
     }
 
 # Function to process all JSON files in a directory and save as a CSV
