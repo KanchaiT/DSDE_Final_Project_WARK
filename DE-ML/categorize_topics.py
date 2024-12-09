@@ -78,12 +78,13 @@ def process_csv(filepath, source_col, existing_col):
             if item:
                 categorize_topics(item,value_set)
         data = sorted(list(value_set))
+        
         df.at[index, existing_col] = "; ".join(data)
     df.to_csv(filepath, index=False)
     print(f"Processed CSV. Column '{existing_col}' updated.")
 
 
-filepath = "C:/Users/Public/Documents/My/DataSci/DSDE_Final_Project_WARK/Data_Aj/2/joined_2018-2023.csv"  # Replace with your CSV file path
+filepath = "C:/Users/Achita/Documents/DSDE_Final_Project_WARK/DataFinal/final_dataScraping.csv"  # Replace with your CSV file path
 source_col = "subject_area_name" 
 existing_col = "category"  
 
