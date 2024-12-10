@@ -36,6 +36,6 @@ def process_all_json_files(input_folder, output_file):
     print(f"All Scopus links have been saved to {output_file}")
 
 # Example usage
-input_folder = "Scraping/results_1500.json"  # Replace with the folder containing your JSON files
-output_file = "scopus_links.txt"  # Replace with your desired output file name
+input_folder = "Scraping/formScopusAPI"  # Replace with the folder containing your JSON files
+output_file = "Scraping/ScopusLinkForScraping/scopus_links.txt"  # Replace with your desired output file name
 process_all_json_files(input_folder, output_file)

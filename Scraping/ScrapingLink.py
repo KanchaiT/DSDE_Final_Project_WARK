@@ -120,6 +120,6 @@ def process_all_json_files(input_file, output_folder):
         print(f"Error processing input file: {e}")
 
 # Input and output paths
-input_file = "Scraping/INPUT_link/scopus_links.txt"
-output_folder = "Scraping/OUTPUT_html/real/"
+input_file = "Scraping/ScopusLinkForScraping/scopus_links.txt"
+output_folder = "Scraping/ScrapOutput/real/"
 process_all_json_files(input_file, output_folder)
