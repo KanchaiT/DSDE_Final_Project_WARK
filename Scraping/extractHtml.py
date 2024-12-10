@@ -3,10 +3,10 @@ import csv
 from bs4 import BeautifulSoup
 
 # Directory containing your HTML files
-html_directory = "Scraping/OUTPUT_html/real2"
+html_directory = "Scraping/OUTPUT_html/real"
 
 # Output CSV file
-output_csv = "Scraping/Data_Scrap/extracted_html.csv"
+output_csv = "Scraping/ScrapCsv/extracted_html.csv"
 
 # Error log file
 error_log = "Scraping/error_log.txt"
