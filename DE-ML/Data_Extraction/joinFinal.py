@@ -95,6 +95,6 @@ def join_csv_files(input_folder, output_file):
 # Example usage
 input_folder = "DataFinal"  # Replace with the folder containing your CSV files
 output_file = "DataFinal/Final_2017-2023.csv"  # Replace with the desired output file name
-join_csv_colum("form_scrap/extracted_html.csv","form_scrap/citedby_counts_summary.csv","DataFinal/final_dataScraping.csv")
+join_csv_colum("DataFromScrap/extracted_html.csv","DataFromScrap/citedby_counts_summary.csv","DataFinal/final_dataScraping.csv")
 add_missing_columns("DataFinal/final_dataScraping.csv", "DataFinal/final_dataScraping.csv")
 # join_csv_files(input_folder, output_file)
