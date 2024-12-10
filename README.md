@@ -39,3 +39,10 @@ This project highlights the practical application of data science techniques to 
 - Kanchai Triyavanich
 - Wit Chakranon
 - Achita Chalongsirikun
+
+## This Repo have 4 branches
+
+- main ( This branch [Only Project Details] )
+- DE-ML ( Data Engineering Module + Machine Learning Module )
+- Scraping ( Wev Scraping Part )
+- Visualize ( Visualization Module )
